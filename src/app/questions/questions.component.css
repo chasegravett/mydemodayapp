@@ -1,0 +1,20 @@
+.card{
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 90%;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+li .card:hover{
+    border: 1.25px solid blue;
+}
+
+ol {
+    padding: 0;
+}
+

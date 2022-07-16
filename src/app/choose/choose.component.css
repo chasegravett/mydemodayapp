@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 55px;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.buttons {
+    justify-content: space-between;
+    text-align: center;
+}
+
+.space {
+    width: 25px;
+    height: auto;
+    display: inline-block;
+  }

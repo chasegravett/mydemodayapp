@@ -1,0 +1,3458 @@
+[
+    {
+        "_id": "001",
+        "question": "What is the Bible?",
+        "answer": "The Bible is the inspired Word of God and is His revelation to people of Himself and His plan of salvation. ",
+        "points": 10
+    },
+    {
+        "_id": "002",
+        "question": "How many books are there in the Bible?",
+        "answer": "66 ",
+        "points": 10
+    },
+    {
+        "_id": "003",
+        "question": "What are the two divisions of the Bible?",
+        "answer": "Old Testament and New Testament ",
+        "points": 10
+    },
+    {
+        "_id": "004",
+        "question": "What does 'testament' mean?",
+        "answer": "Covenant [contract or agreement] ",
+        "points": 10
+    },
+    {
+        "_id": "005",
+        "question": "How many books are in the Old Testament?",
+        "answer": "39 ",
+        "points": 10
+    },
+    {
+        "_id": "006",
+        "question": "In what language was most of the Old Testament written?",
+        "answer": "Hebrew ",
+        "points": 10
+    },
+    {
+        "_id": "007",
+        "question": "How many books are in the New Testament?",
+        "answer": "27 ",
+        "points": 10
+    },
+    {
+        "_id": "008",
+        "question": "In what language was most of the New Testament written?",
+        "answer": "Greek",
+        "points": 10
+    },
+    {
+        "_id": "009",
+        "question": " About how many people did God inspire to write the Bible?",
+        "answer": "[About] 40 ",
+        "points": 10
+    },
+    {
+        "_id": "010",
+        "question": "Approximately how many years did it take to write the Bible?",
+        "answer": "[Approximately] 1600 years ",
+        "points": 10
+    },
+    {
+        "_id": "011",
+        "question": "Which book of the Bible tells about the beginnings of the world?",
+        "answer": "Genesis ",
+        "points": 10
+    },
+    {
+        "_id": "012",
+        "question": "What are the four Gospels?",
+        "answer": "Matthew, Mark, Luke, John ",
+        "points": 10
+    },
+    {
+        "_id": "013",
+        "question": "What does the word 'gospel' mean?",
+        "answer": "'Good news' ",
+        "points": 10
+    },
+    {
+        "_id": "014",
+        "question": "What is the theme of the four Gospels?",
+        "answer": "The life and teaching of Jesus ",
+        "points": 10
+    },
+    {
+        "_id": "015",
+        "question": "Who wrote more books of the Bible than any other person?",
+        "answer": "Paul ",
+        "points": 10
+    },
+    {
+        "_id": "016",
+        "question": "Which book of the Bible tells about the beginnings of the Church?",
+        "answer": "Acts ",
+        "points": 10
+    },
+    {
+        "_id": "017",
+        "question": "Which New Testament book is composed almost entirely of prophecies of the future?",
+        "answer": "Revelation ",
+        "points": 10
+    },
+    {
+        "_id": "018",
+        "question": "Which of the Old Testament books is a collection of hymns and songs?",
+        "answer": "Psalms ",
+        "points": 10
+    },
+    {
+        "_id": "019",
+        "question": "Who wrote many of the Psalms?",
+        "answer": "King David ",
+        "points": 10
+    },
+    {
+        "_id": "020",
+        "question": "What is an epistle?",
+        "answer": "A letter sent by an apostle ",
+        "points": 10
+    },
+    {
+        "_id": "021",
+        "question": "What is the longest book of the Bible?",
+        "answer": "Psalms ",
+        "points": 10
+    },
+    {
+        "_id": "022",
+        "question": "What is the shortest chapter in the Bible?",
+        "answer": "Psalm 117 ",
+        "points": 10
+    },
+    {
+        "_id": "023",
+        "question": "What is the longest chapter in the Bible?",
+        "answer": "Psalm 119 ",
+        "points": 10
+    },
+    {
+        "_id": "024",
+        "question": "QUOTATION QUESTION. Where did the universe come from?",
+        "answer": "(NIV) Genesis 1:1  In the beginning God created the heavens and the earth. ",
+        "points": 10
+    },
+    {
+        "_id": "025",
+        "question": "Who were the first man and first woman?",
+        "answer": "Adam and Eve (Genesis 3:20)",
+        "points": 10
+    },
+    {
+        "_id": "026",
+        "question": "How are people different from animals?",
+        "answer": "God created people in His own image. (Genesis 1:27)",
+        "points": 10
+    },
+    {
+        "_id": "027",
+        "question": "Who were the first two brothers?",
+        "answer": "Cain and Abel (Genesis 4:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "028",
+        "question": "Who was the first murderer?",
+        "answer": "Cain (Genesis 4:8)",
+        "points": 10
+    },
+    {
+        "_id": "029",
+        "question": "How did sin enter the world?",
+        "answer": "Through the disobedience of Adam and Eve (Genesis 3:1-19; Romans 5:14)",
+        "points": 10
+    },
+    {
+        "_id": "030",
+        "question": "The account of man's first sin mentioned what two trees?",
+        "answer": "The tree of the knowledge of good and evil The tree of life (Genesis 2:17; 3:24)",
+        "points": 10
+    },
+    {
+        "_id": "031",
+        "question": "What man walked with God until God took him to heaven without dying?",
+        "answer": "Enoch(Genesis 5:24)",
+        "points": 10
+    },
+    {
+        "_id": "032",
+        "question": "Who lived longer than any other person, and how long did he live?",
+        "answer": "Methuselah--969 years (Genesis 5:27)",
+        "points": 10
+    },
+    {
+        "_id": "033",
+        "question": "Why did God send a flood upon the earth?",
+        "answer": "Because people were so wicked and they thought about evil all the time (Genesis 6:5)",
+        "points": 10
+    },
+    {
+        "_id": "034",
+        "question": "Whom did God spare from the Great Flood?",
+        "answer": "Noah and his family (Genesis 7:7)",
+        "points": 10
+    },
+    {
+        "_id": "035",
+        "question": "Who were the three sons of Noah?",
+        "answer": "Shem, Ham, Japheth (Genesis 7:13)",
+        "points": 10
+    },
+    {
+        "_id": "036",
+        "question": "When the Flood came, how long did it rain?",
+        "answer": "40 days and nights (Genesis 7:12)",
+        "points": 10
+    },
+    {
+        "_id": "037",
+        "question": "What was the meaning of the first rainbow?",
+        "answer": "It was God's promise that the world would never again be destroyed by a flood. (Genesis 9:15)",
+        "points": 10
+    },
+    {
+        "_id": "038",
+        "question": "After the Flood, how did the people rebel against God?",
+        "answer": "By building a tower that reached into the sky to make themselves famous (Genesis 11:4)",
+        "points": 10
+    },
+    {
+        "_id": "039",
+        "question": "How did God judge the people who built the tower of Babel?",
+        "answer": "God confused the people with different languages so they couldn’t understand one another (Genesis 11:7)",
+        "points": 10
+    },
+    {
+        "_id": "040",
+        "question": "How did God test Abraham's faith when He asked him to leave his home?",
+        "answer": "By asking Abraham to follow Him without telling him where He would lead him (Hebrews 11:8)",
+        "points": 10
+    },
+    {
+        "_id": "041",
+        "question": "Who was Abraham's nephew?",
+        "answer": "Lot (Genesis 12:4,5)",
+        "points": 10
+    },
+    {
+        "_id": "042",
+        "question": "What was the original name of the country God promised to Abraham?",
+        "answer": "Canaan (Genesis 12:5)",
+        "points": 10
+    },
+    {
+        "_id": "043",
+        "question": "Who was Abraham's wife?",
+        "answer": "Sarah (Genesis 17:15)",
+        "points": 10
+    },
+    {
+        "_id": "044",
+        "question": "To what country did Abraham go in time of famine?",
+        "answer": "Egypt (Genesis 12:10)",
+        "points": 10
+    },
+    {
+        "_id": "045",
+        "question": "Why was it wrong for Lot to live in Sodom?",
+        "answer": "Because the people of Sodom were very wicked and constantly sinned against the Lord(Genesis 13:13)",
+        "points": 10
+    },
+    {
+        "_id": "046",
+        "question": "Who was Melchizedek?",
+        "answer": "Priest of God and King of Salem (Genesis 14:18)",
+        "points": 10
+    },
+    {
+        "_id": "047",
+        "question": "What was the name of the son born to Abraham and Hagar?",
+        "answer": "Ishmael (Genesis 16:16)",
+        "points": 10
+    },
+    {
+        "_id": "048",
+        "question": "What two cities did God destroy with fire because of their great wickedness?",
+        "answer": "Sodom and Gomorrah (Genesis 19:24)",
+        "points": 10
+    },
+    {
+        "_id": "049",
+        "question": "What was the name of the son born to Abraham and Sarah?",
+        "answer": "Isaac (Genesis 21:1-3)",
+        "points": 10
+    },
+    {
+        "_id": "050",
+        "question": "How old were Abraham and Sarah when Isaac was born?",
+        "answer": "Abraham was 100 and Sarah was 90 years old. (Genesis 17:17,21; 21:1-5)",
+        "points": 10
+    },
+    {
+        "_id": "051",
+        "question": "Who was Isaac's wife?",
+        "answer": "Rebekah (Genesis 24:67)",
+        "points": 10
+    },
+    {
+        "_id": "052",
+        "question": "Who were the twin sons of Isaac and Rebekah?",
+        "answer": "Esau and Jacob (Genesis 25:20-26)",
+        "points": 10
+    },
+    {
+        "_id": "053",
+        "question": "What did Esau sell to Jacob?",
+        "answer": "His birthright [his rights as the firstborn son] (Genesis 25:29-34)",
+        "points": 10
+    },
+    {
+        "_id": "054",
+        "question": "How did Jacob obtain the blessing of the firstborn son instead of Esau?",
+        "answer": "By making his father, Isaac, think he was Esau (Genesis 27:1-29)",
+        "points": 10
+    },
+    {
+        "_id": "055",
+        "question": "Where did Jacob have a dream of a stairway reaching to heaven?",
+        "answer": "Bethel (Genesis 28:10-19)",
+        "points": 10
+    },
+    {
+        "_id": "056",
+        "question": "Who was the mother of Joseph and Benjamin?",
+        "answer": "Rachel (Genesis 30:22-24; 35:16-18)",
+        "points": 10
+    },
+    {
+        "_id": "057",
+        "question": "What new name did God give to Jacob after he wrestled with God?",
+        "answer": "Israel(Genesis 32:28)",
+        "points": 10
+    },
+    {
+        "_id": "058",
+        "question": "What special meaning did Joseph's dreams have?",
+        "answer": "He would be a great ruler someday, and his family would bow down to him. (Genesis 37)",
+        "points": 10
+    },
+    {
+        "_id": "059",
+        "question": "How did Jacob show his special love for Joseph?",
+        "answer": "By giving him a beautiful robe [coat of many colors] (Genesis 37:3)",
+        "points": 10
+    },
+    {
+        "_id": "060",
+        "question": "Into what country was Joseph sold as a slave?",
+        "answer": "Egypt (Genesis 37:36)",
+        "points": 10
+    },
+    {
+        "_id": "061",
+        "question": "Who was Joseph's first master in Egypt?",
+        "answer": "Potiphar (Genesis 39:1)",
+        "points": 10
+    },
+    {
+        "_id": "062",
+        "question": "What happened to Joseph when he refused to commit sin with his master's wife?",
+        "answer": "He was put into prison. (Genesis 39:20)",
+        "points": 10
+    },
+    {
+        "_id": "063",
+        "question": "Whose dreams did Joseph interpret while in prison?",
+        "answer": "Pharaoh’s baker and cupbearer (Genesis 40:5)",
+        "points": 10
+    },
+    {
+        "_id": "064",
+        "question": "What did Joseph say was the meaning of the king's dream?",
+        "answer": "Seven good years would be followed by seven years of famine. (Genesis 41:25-27)",
+        "points": 10
+    },
+    {
+        "_id": "065",
+        "question": "Whom did Pharaoh appoint to prepare for the famine?",
+        "answer": "Joseph (Genesis 41:33-46)",
+        "points": 10
+    },
+    {
+        "_id": "066",
+        "question": "What are the names of the two sons of Joseph?",
+        "answer": "Ephraim and Manasseh (Genesis 41:50-52)",
+        "points": 10
+    },
+    {
+        "_id": "067",
+        "question": "Why did Joseph's brothers go to Egypt?",
+        "answer": "To buy food (Genesis 41:57)",
+        "points": 10
+    },
+    {
+        "_id": "068",
+        "question": "Where did Jacob and his family settle in Egypt?",
+        "answer": "Goshen (Genesis 46:34)",
+        "points": 10
+    },
+    {
+        "_id": "069",
+        "question": "Who was the baby that Pharaoh's daughter found floating in the river?",
+        "answer": "Moses (Exodus 2:1-10)",
+        "points": 10
+    },
+    {
+        "_id": "070",
+        "question": "Why did Moses flee from Egypt?",
+        "answer": "Because it was known that he had killed an Egyptian who mistreated an Israelite (Exodus 2:11-15)",
+        "points": 10
+    },
+    {
+        "_id": "071",
+        "question": "Who was Moses' father-in-law and what was his position?",
+        "answer": "Jethro; priest of Midian (Exodus 3:1)",
+        "points": 10
+    },
+    {
+        "_id": "072",
+        "question": "Where did God appear to Moses out of the burning bush?",
+        "answer": "Mt. Sinai (Exodus 3:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "073",
+        "question": "What promise did God make to Moses at the burning bush?",
+        "answer": "That God would rescue the Israelites out of Egypt (Exodus 3:8-10)",
+        "points": 10
+    },
+    {
+        "_id": "074",
+        "question": "How did God persuade Pharaoh to let the Israelites go?",
+        "answer": "By sending ten plagues upon the land of Egypt (Exodus 3:17-20; chapters 7-11)",
+        "points": 10
+    },
+    {
+        "_id": "075",
+        "question": "Whom did God give Moses to help him in bringing the Israelites out of Egypt?",
+        "answer": "Moses' brother Aaron (Exodus 4:14)",
+        "points": 10
+    },
+    {
+        "_id": "076",
+        "question": "What was the tenth and last plague that fell upon Egypt?",
+        "answer": "The death of the firstborn (Exodus 11:1-7)",
+        "points": 10
+    },
+    {
+        "_id": "077",
+        "question": "What feast did God establish to remember the Israelites' deliverance from Egypt?",
+        "answer": "Passover (Exodus 12:3-11)",
+        "points": 10
+    },
+    {
+        "_id": "078",
+        "question": "By what miracle did the Israelites leave the land of Egypt?",
+        "answer": "The parting of the sea [Red Sea] (Exodus 14:13-22)",
+        "points": 10
+    },
+    {
+        "_id": "079",
+        "question": "What happened to the Egyptians who tried to follow the Israelites through the Red Sea?",
+        "answer": "They all drowned. (Exodus 14:23-28)",
+        "points": 10
+    },
+    {
+        "_id": "080",
+        "question": "Who was the sister of Moses?",
+        "answer": "Miriam (Exodus 15:20)",
+        "points": 10
+    },
+    {
+        "_id": "081",
+        "question": "How did God change the bitter water of Marah into good water?",
+        "answer": "By showing Moses a piece of wood to throw into the water(Exodus 15:24,25)",
+        "points": 10
+    },
+    {
+        "_id": "082",
+        "question": "How did God provide bread for the Israelites in the wilderness?",
+        "answer": "By sending manna (Exodus 16:1-18)",
+        "points": 10
+    },
+    {
+        "_id": "083",
+        "question": "What miracle did God perform for Moses at Rephidim?",
+        "answer": "God brought water from a rock. (Exodus 17:1-6)",
+        "points": 10
+    },
+    {
+        "_id": "084",
+        "question": "How did Aaron and Hur help Moses gain the victory over the Amalekites?",
+        "answer": "By holding up Moses' hands (Exodus 17:8-13)",
+        "points": 10
+    },
+    {
+        "_id": "085",
+        "question": "On what mountain did God give Moses the Ten Commandments?",
+        "answer": "Mt. Sinai (Exodus 19:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "086",
+        "question": "QUOTATION QUESTION. Which is the first of the Ten Commandments?",
+        "answer": "Exodus 20:3  You must not have any other god but me.",
+        "points": 10
+    },
+    {
+        "_id": "087",
+        "question": "QUOTATION QUESTION. Which of the Ten Commandments prohibits the worshiping of idols?",
+        "answer": "Exodus 20:4  You must not make for yourself an idol of any kind.",
+        "points": 10
+    },
+    {
+        "_id": "088",
+        "question": "QUOTATION QUESTION. Which of the Ten Commandments prohibits cursing and swearing?",
+        "answer": "Exodus 20:7  You must not misuse the name of the Lord your God. ",
+        "points": 10
+    },
+    {
+        "_id": "089",
+        "question": " QUOTATION QUESTION. Which of the Ten Commandments sets aside one day each week as special unto God?",
+        "answer": "Exodus 20:8  Remember to observe the Sabbath day by keeping it holy. ",
+        "points": 10
+    },
+    {
+        "_id": "090",
+        "question": "What did Paul call 'the first commandment with promise'?",
+        "answer": "Honor your father and mother. (Exodus 20:12; Ephesians 6:2,3)",
+        "points": 10
+    },
+    {
+        "_id": "091",
+        "question": "Which of the Ten Commandments protects the sacredness of human life?",
+        "answer": "You must not murder. (Exodus 20:13)",
+        "points": 10
+    },
+    {
+        "_id": "092",
+        "question": "Which of the Ten Commandments protects the sacredness of marriage?",
+        "answer": "You must not commit adultery. (Exodus 20:14)",
+        "points": 10
+    },
+    {
+        "_id": "093",
+        "question": "Which of the Ten Commandments protects our right to own possessions?",
+        "answer": "You must not steal. (Exodus 20:15)",
+        "points": 10
+    },
+    {
+        "_id": "094",
+        "question": "Which of the Ten Commandments prohibits lying?",
+        "answer": "You must not testify falsely against your neighbor. (Exodus 20:16)",
+        "points": 10
+    },
+    {
+        "_id": "095",
+        "question": "Which of the Ten Commandments forbids wrong desires?",
+        "answer": "You must not covet anything that belongs to your neighbor. (Exodus 20:17)",
+        "points": 10
+    },
+    {
+        "_id": "096",
+        "question": "In which book and chapter of the Bible do we find the first record of the Ten Commandments?",
+        "answer": "Exodus [chapter] 20 (Exodus 20)",
+        "points": 10
+    },
+    {
+        "_id": "097",
+        "question": "What did the Israelites build in which to worship God while they were in the wilderness?",
+        "answer": "The Tabernacle (Exodus 26:30)",
+        "points": 10
+    },
+    {
+        "_id": "098",
+        "question": "What sin did Aaron and the Israelites commit at Mt. Sinai?",
+        "answer": "Making and worshiping the idol of the golden calf (Exodus 32:4)",
+        "points": 10
+    },
+    {
+        "_id": "099",
+        "question": "From which of the tribes of Israel were the priests chosen?",
+        "answer": "Levi (Numbers 1:17-53)",
+        "points": 10
+    },
+    {
+        "_id": "100",
+        "question": "What was the main purpose of the sacrifices and offerings made by the Israelites?",
+        "answer": "To purify them from their sins (Leviticus 5:1-6)",
+        "points": 10
+    },
+    {
+        "_id": "101",
+        "question": "What did God use to lead the Israelites in the wilderness?",
+        "answer": "A cloud by day and a pillar of fire by night (Numbers 9:15-23)",
+        "points": 10
+    },
+    {
+        "_id": "102",
+        "question": "Why were the twelve spies sent by Moses into Canaan?",
+        "answer": "To see what kind of land it was and what kind of people lived there (Numbers 13:16-20)",
+        "points": 10
+    },
+    {
+        "_id": "103",
+        "question": "What evidence did the spies bring back to show that Canaan was a good land?",
+        "answer": "They brought fruit from the land. (Numbers 13:23,24)",
+        "points": 10
+    },
+    {
+        "_id": "104",
+        "question": "Which two of the twelve spies said the Israelites could capture the land of Canaan?",
+        "answer": "Joshua and Caleb (Numbers 14:1-9)",
+        "points": 10
+    },
+    {
+        "_id": "105",
+        "question": "How many years did the Israelites wander in the wilderness?",
+        "answer": "40 years (Numbers 14:33,34)",
+        "points": 10
+    },
+    {
+        "_id": "106",
+        "question": "How did God prove to the Israelites that Moses and Aaron were His chosen leaders?",
+        "answer": "He caused Aaron's staff to sprout, bud, and blossom. (Numbers 17:1-10)",
+        "points": 10
+    },
+    {
+        "_id": "107",
+        "question": "How did Moses disobey God when the water came from the rock at Meribah?",
+        "answer": "He struck the rock instead of speaking to it. (Numbers 20:7-13)",
+        "points": 10
+    },
+    {
+        "_id": "108",
+        "question": "How did God provide healing for the Israelites when they were bitten by the snakes?",
+        "answer": "He told Moses to make a bronze snake that the people could look at and be healed. (Numbers 21:5-9)",
+        "points": 10
+    },
+    {
+        "_id": "109",
+        "question": "Whom did God appoint to be the leader of Israel after Moses?",
+        "answer": "Joshua (Numbers 27:18-23)",
+        "points": 10
+    },
+    {
+        "_id": "110",
+        "question": "Why was Moses not allowed to go into the land of Canaan?",
+        "answer": "Because he failed to trust God and demonstrate God’s holiness to the Israelites at Meribah (Deuteronomy 32:48-52)",
+        "points": 10
+    },
+    {
+        "_id": "111",
+        "question": "From what mountain did Moses see the Promised Land?",
+        "answer": "Nebo (Deuteronomy 34:1)",
+        "points": 10
+    },
+    {
+        "_id": "112",
+        "question": "How old was Moses when he died?",
+        "answer": "120 years (Deuteronomy 34:7)",
+        "points": 10
+    },
+    {
+        "_id": "113",
+        "question": "Who were the only two men who left Egypt and entered Canaan?",
+        "answer": "Joshua and Caleb (Numbers 26:65)",
+        "points": 10
+    },
+    {
+        "_id": "114",
+        "question": "Who protected the spies Joshua sent to Jericho?",
+        "answer": "Rahab (Joshua 2:1-6)",
+        "points": 10
+    },
+    {
+        "_id": "115",
+        "question": "How did Rahab mark her house so she would be protected when Jericho was captured?",
+        "answer": "By placing a scarlet rope in the window of her house (Joshua 2:18-21)",
+        "points": 10
+    },
+    {
+        "_id": "116",
+        "question": "By what miracle did the Israelites enter the Promised Land?",
+        "answer": "God stopped the flow of the Jordan River during its flood stage. (Joshua 3:14-17)",
+        "points": 10
+    },
+    {
+        "_id": "117",
+        "question": "How many times did the Israelites march around the walls of Jericho?",
+        "answer": "Thirteen--once each day for six days and seven times on the seventh day (Joshua 6:3-4)",
+        "points": 10
+    },
+    {
+        "_id": "118",
+        "question": "What happened at Jericho when the Israelites shouted at Joshua's command?",
+        "answer": "The walls of Jericho collapsed. (Joshua 6:20)",
+        "points": 10
+    },
+    {
+        "_id": "119",
+        "question": "Whose sin caused the defeat at Ai?",
+        "answer": "Achan's (Joshua 7:1)",
+        "points": 10
+    },
+    {
+        "_id": "120",
+        "question": "What miracle occurred when Joshua fought at Gibeon?",
+        "answer": "The sun and the moon stood still. (Joshua 10:12,13)",
+        "points": 10
+    },
+    {
+        "_id": "121",
+        "question": "Who defeated the Midianites with only 300 men?",
+        "answer": "Gideon (Judges 7:7)",
+        "points": 10
+    },
+    {
+        "_id": "122",
+        "question": "Which of the judges was very strong?",
+        "answer": "Samson (Judges 14:5,6)",
+        "points": 10
+    },
+    {
+        "_id": "123",
+        "question": "What woman tricked Samson into telling her the secret of his strength?",
+        "answer": "Delilah (Judges 16:4-21)",
+        "points": 10
+    },
+    {
+        "_id": "124",
+        "question": "What Gentile girl decided to serve God because she loved her mother-in-law, Naomi?",
+        "answer": "Ruth (Ruth 1:14-19)",
+        "points": 10
+    },
+    {
+        "_id": "125",
+        "question": "What descendant of Ruth became king of Israel?",
+        "answer": "David (Ruth 4:22)",
+        "points": 10
+    },
+    {
+        "_id": "126",
+        "question": "What child heard the voice of God speak to him during the night?",
+        "answer": "Samuel (1 Samuel 3:2-10)",
+        "points": 10
+    },
+    {
+        "_id": "127",
+        "question": "Upon what priest did God tell Samuel to pronounce judgment?",
+        "answer": "Eli (1 Samuel 3:11-14)",
+        "points": 10
+    },
+    {
+        "_id": "128",
+        "question": "As described in Hebrews, what was the ark of the covenant?",
+        "answer": "The sacred box which contained the stone tablets of the Ten Commandments, the gold jar of manna, and Aaron's staff that had sprouted leaves(Hebrews 9:4)",
+        "points": 10
+    },
+    {
+        "_id": "129",
+        "question": "Why did the Israelites want a king instead of a judge?",
+        "answer": "Because they wanted to be like other nations (1 Samuel 8:4,5)",
+        "points": 10
+    },
+    {
+        "_id": "130",
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul (1 Samuel 10:17-25)",
+        "points": 10
+    },
+    {
+        "_id": "131",
+        "question": "Why did God reject Saul as king Israel?",
+        "answer": "He rejected God's command. (1 Samuel 15:23)",
+        "points": 10
+    },
+    {
+        "_id": "132",
+        "question": "Whom did God choose to replace Saul as king of Israel?",
+        "answer": "David (1 Samuel 16:1-13)",
+        "points": 10
+    },
+    {
+        "_id": "133",
+        "question": "What giant did David kill?",
+        "answer": "Goliath (1 Samuel 17:23)",
+        "points": 10
+    },
+    {
+        "_id": "134",
+        "question": "Who was the commander of David's army?",
+        "answer": "Joab (1 Kings 1:19)",
+        "points": 10
+    },
+    {
+        "_id": "135",
+        "question": "Why did David refuse to kill King Saul?",
+        "answer": "Because God had chosen Saul to be king (1 Samuel 24:6)",
+        "points": 10
+    },
+    {
+        "_id": "136",
+        "question": "How long did David rule as king?",
+        "answer": "40 years (2 Samuel 2:4,10; 5:4,5)",
+        "points": 10
+    },
+    {
+        "_id": "137",
+        "question": "Which son of Saul was David's best friend?",
+        "answer": "Jonathan (1 Samuel 18:1)",
+        "points": 10
+    },
+    {
+        "_id": "138",
+        "question": "Why did David show kindness to Mephibosheth?",
+        "answer": "Because Mephibosheth was Jonathan's son (2 Samuel 9:1-7)",
+        "points": 10
+    },
+    {
+        "_id": "139",
+        "question": "Which of David's sons tried to take the kingdom from him?",
+        "answer": "Absalom (2 Samuel 15:1-12)",
+        "points": 10
+    },
+    {
+        "_id": "140",
+        "question": "When did David say life begins?",
+        "answer": "In the womb (Psalm 139:13-16)",
+        "points": 10
+    },
+    {
+        "_id": "141",
+        "question": "Whom did God tell David to choose to be king after his death?",
+        "answer": "Solomon (1 Kings 1:32-35; 1 Chronicles 22:9)",
+        "points": 10
+    },
+    {
+        "_id": "142",
+        "question": "What did Solomon ask God to give him when he became king?",
+        "answer": "Wisdom (1 Kings 3:5-14)",
+        "points": 10
+    },
+    {
+        "_id": "143",
+        "question": "What building did Solomon erect for God?",
+        "answer": "The temple of the Lord (1 Kings 6:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "144",
+        "question": "What queen came from a long distance to visit Solomon?",
+        "answer": "The Queen of Sheba (1 Kings 10:1)",
+        "points": 10
+    },
+    {
+        "_id": "145",
+        "question": "What happened to the kingdom of Israel upon the death of Solomon?",
+        "answer": "It was divided into the kingdoms of Israel and Judah. (1 Kings 4:20,21; 11:28-39,42; 12:16-20)",
+        "points": 10
+    },
+    {
+        "_id": "146",
+        "question": "Why did Jeroboam establish idol worship in the northern kingdom of Israel?",
+        "answer": "So the people wouldn't go to Jerusalem to offer sacrifices (1 Kings 12:26-30)",
+        "points": 10
+    },
+    {
+        "_id": "147",
+        "question": "On Mount Carmel, why did Elijah ask God to consume the sacrifice with fire?",
+        "answer": "So that all of Israel would know that God was really God (1 Kings 18:30-39)",
+        "points": 10
+    },
+    {
+        "_id": "148",
+        "question": "Who were the evil king and queen of Israel during the time of Elijah?",
+        "answer": "Ahab and Jezebel (1 Kings 21:4,5, 17-26)",
+        "points": 10
+    },
+    {
+        "_id": "149",
+        "question": "Whom did God take directly to heaven in a whirlwind?",
+        "answer": "Elijah (2 Kings 2:11)",
+        "points": 10
+    },
+    {
+        "_id": "150",
+        "question": "What prophet succeeded Elijah?",
+        "answer": "Elisha (2 Kings 2:15)",
+        "points": 10
+    },
+    {
+        "_id": "151",
+        "question": "What Syrian officer was healed of leprosy by bathing in the Jordan River at Elisha's command?",
+        "answer": "Naaman (2 Kings 5:10-14)",
+        "points": 10
+    },
+    {
+        "_id": "152",
+        "question": "To whom did God give a sign of the sun moving backwards to show him that he was healed?",
+        "answer": "Hezekiah (2 Kings 20:8-11)",
+        "points": 10
+    },
+    {
+        "_id": "153",
+        "question": "To what city were many of the people of Judah taken as captives?",
+        "answer": "Babylon (2 Kings 24:10-16)",
+        "points": 10
+    },
+    {
+        "_id": "154",
+        "question": "What king of Babylon conquered Jerusalem and the kingdom of Judah?",
+        "answer": "Nebuchadnezzar (2 Kings 24:10-15)",
+        "points": 10
+    },
+    {
+        "_id": "155",
+        "question": "When the people returned to Jerusalem from captivity in Babylon, who oversaw the rebuilding of the temple?",
+        "answer": "Zerubbabel (Ezra 3:8)",
+        "points": 10
+    },
+    {
+        "_id": "156",
+        "question": "When the people returned to Jerusalem from captivity in Babylon, who oversaw the rebuilding of the walls of the city?",
+        "answer": "Nehemiah (Nehemiah 2:4-8)",
+        "points": 10
+    },
+    {
+        "_id": "157",
+        "question": "Who was the Jewish girl who became the wife of the king of Persia?",
+        "answer": "Esther (Esther 2:16,17)",
+        "points": 10
+    },
+    {
+        "_id": "158",
+        "question": "How did Esther save the lives of the Jewish people?",
+        "answer": "By asking her husband, king of Persia, to spare their lives(Esther 7:1-6)",
+        "points": 10
+    },
+    {
+        "_id": "159",
+        "question": "What man lost all of his possessions and his health but remained true to God?",
+        "answer": "Job (Job 1:7-22)",
+        "points": 10
+    },
+    {
+        "_id": "160",
+        "question": "How did God reward Job for his faithfulness?",
+        "answer": "God gave him as many children and twice as many possessions as he had had before his trial. (Job 42:10-13)",
+        "points": 10
+    },
+    {
+        "_id": "161",
+        "question": "Who was called the weeping prophet?",
+        "answer": "Jeremiah (Jeremiah 9:1)",
+        "points": 10
+    },
+    {
+        "_id": "162",
+        "question": "Who interpreted a famous dream for King Nebuchadnezzar?",
+        "answer": "Daniel (Daniel 2:27-29)",
+        "points": 10
+    },
+    {
+        "_id": "163",
+        "question": "Why were Shadrach, Meshach, and Abednego thrown into a blazing furnace?",
+        "answer": "They refused to worship the gold statue set up by the king. (Daniel 3:14-23)",
+        "points": 10
+    },
+    {
+        "_id": "164",
+        "question": "What did Daniel do when the king decreed he could no longer pray to his God?",
+        "answer": "He continued to pray just as he always did. (Daniel 6:10)",
+        "points": 10
+    },
+    {
+        "_id": "165",
+        "question": "What happened to Daniel when he continued to pray to God instead of to the king?",
+        "answer": "He was thrown into the lions’ den. (Daniel 6:4-16)",
+        "points": 10
+    },
+    {
+        "_id": "166",
+        "question": "What was the meaning of the handwriting on the wall at Belshazzar's drunken party?",
+        "answer": "That Belshazzar's kingdom was about to be conquered (Daniel 5:25-30)",
+        "points": 10
+    },
+    {
+        "_id": "167",
+        "question": "Who was swallowed by a great fish when he ran away from doing God's will?",
+        "answer": "Jonah (Jonah 1:17)",
+        "points": 10
+    },
+    {
+        "_id": "168",
+        "question": "What happened when Jonah preached to the people of Ninevah?",
+        "answer": "The people repented and God forgave them. (Jonah 3:5-10)",
+        "points": 10
+    },
+    {
+        "_id": "169",
+        "question": "Where did Micah say the Messiah would be born?",
+        "answer": "Bethlehem (Micah 5:2)",
+        "points": 10
+    },
+    {
+        "_id": "170",
+        "question": "According to the prophet Zechariah, where will Jesus' feet stand when He returns to the earth?",
+        "answer": "The Mount of Olives (Zechariah 14:4)",
+        "points": 10
+    },
+    {
+        "_id": "171",
+        "question": "Who told Mary she would be the mother of the Messiah?",
+        "answer": "The angel Gabriel (Luke 1:26-33)",
+        "points": 10
+    },
+    {
+        "_id": "172",
+        "question": "To whom was the virgin Mary engaged to be married?",
+        "answer": "Joseph (Matthew 1:18)",
+        "points": 10
+    },
+    {
+        "_id": "173",
+        "question": "Who were the first persons, other than Joseph and Mary, to hear that Jesus had been born?",
+        "answer": "Shepherds (Luke 2:9-16)",
+        "points": 10
+    },
+    {
+        "_id": "174",
+        "question": "What two groups of men worshiped the Christ child?",
+        "answer": "Shepherds and Wise Men (Luke 2:8-15; Matthew 2:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "175",
+        "question": "QUOTATION QUESTION. When the Wise Men came seeking Jesus, what question did they ask?",
+        "answer": "Matthew 2:2  ...Where is the newborn King of the Jews?... ",
+        "points": 10
+    },
+    {
+        "_id": "176",
+        "question": "Who was king over Judea when Jesus was born?",
+        "answer": "Herod (Matthew 2:3)",
+        "points": 10
+    },
+    {
+        "_id": "177",
+        "question": "How did the Wise Men find Jesus?",
+        "answer": "They followed His star to where He was. (Matthew 2:2)",
+        "points": 10
+    },
+    {
+        "_id": "178",
+        "question": "What gifts were given to Jesus by the Wise Men?",
+        "answer": "Gold, Frankincense, Myrrh (Matthew 2:11)",
+        "points": 10
+    },
+    {
+        "_id": "179",
+        "question": "Where did Jesus live as He was growing up?",
+        "answer": "Nazareth (Matthew 2:23)",
+        "points": 10
+    },
+    {
+        "_id": "180",
+        "question": "Whom did God send to prepare the way for Jesus?",
+        "answer": "John the Baptist (John 3:28)",
+        "points": 10
+    },
+    {
+        "_id": "181",
+        "question": "About how old was Jesus when He began His public ministry?",
+        "answer": "[About] 30 years old (Luke 3:23)",
+        "points": 10
+    },
+    {
+        "_id": "182",
+        "question": "About how long did Jesus preach and teach before His crucifixion?",
+        "answer": "[About] 3-1/2 years ",
+        "points": 10
+    },
+    {
+        "_id": "183",
+        "question": "QUOTATION QUESTION. With what words did John the Baptist introduce Jesus?",
+        "answer": "John 1:29  ...Look! The Lamb of God who takes away the sin of the world! ",
+        "points": 10
+    },
+    {
+        "_id": "184",
+        "question": "How did John the Baptist describe the way Jesus would baptize?",
+        "answer": "With the Holy Spirit and with fire (Matthew 3:11)",
+        "points": 10
+    },
+    {
+        "_id": "185",
+        "question": "Which of the disciples was a tax collector?",
+        "answer": "Matthew (Matthew 10:3)",
+        "points": 10
+    },
+    {
+        "_id": "186",
+        "question": "After Andrew met Jesus, what did he tell his brother Simon Peter?",
+        "answer": "“We have found the Messiah.” (John 1:40,41)",
+        "points": 10
+    },
+    {
+        "_id": "187",
+        "question": "What was Jesus' first miracle?",
+        "answer": "Turning water into wine at the wedding in Cana (John 2:1-11)",
+        "points": 10
+    },
+    {
+        "_id": "188",
+        "question": "What ruler of the Jews came to Jesus by night seeking the way to eternal life?",
+        "answer": "Nicodemus (John 3:1)",
+        "points": 10
+    },
+    {
+        "_id": "189",
+        "question": "Where did John the Baptist baptize Jesus?",
+        "answer": "In the Jordan River (Matthew 3:13)",
+        "points": 10
+    },
+    {
+        "_id": "190",
+        "question": "How did God show His approval of Jesus at His baptism?",
+        "answer": "The Holy Spirit descended on Him and the Father said, 'This is my dearly loved Son, who brings me great joy.' (Matthew 3:16,17 Luke 3:21,22)",
+        "points": 10
+    },
+    {
+        "_id": "191",
+        "question": "During Jesus' temptation, how long did He go without eating?",
+        "answer": "40 days and nights (Matthew 4:2)",
+        "points": 10
+    },
+    {
+        "_id": "192",
+        "question": "Who were the first four apostles Jesus called to follow Him?",
+        "answer": "Peter, Andrew, James, John (Matthew 4:18-22)",
+        "points": 10
+    },
+    {
+        "_id": "193",
+        "question": "What do we call the first statements of the Sermon on the Mount which all begin with the words “God blesses”?",
+        "answer": "[The] Beatitudes (Matthew 5:2-11)",
+        "points": 10
+    },
+    {
+        "_id": "194",
+        "question": "How did Jesus prove His power over nature?",
+        "answer": "By calming a storm on the Sea of Galilee (Matthew 8:23-27)",
+        "points": 10
+    },
+    {
+        "_id": "195",
+        "question": "What strange gift did King Herod give to his stepdaughter?",
+        "answer": "The head of John the Baptist (Matthew 14:6-11)",
+        "points": 10
+    },
+    {
+        "_id": "196",
+        "question": "What revelation of himself did Jesus give to Peter, James, and John on a high mountain?",
+        "answer": "Jesus’ appearance was transformed, and he talked with Moses and Elijah. (Matthew 17:1-8)",
+        "points": 10
+    },
+    {
+        "_id": "197",
+        "question": "Why did the rich young leader fail to follow Jesus?",
+        "answer": "He loved the things he owned more than he loved Jesus. (Matthew 19:16-22 Luke 18:18-23)",
+        "points": 10
+    },
+    {
+        "_id": "198",
+        "question": "What did Jesus prophesy would happen to the stones of the Temple?",
+        "answer": "Not one stone would be left on top of another (Mark 13:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "199",
+        "question": "QUOTATION QUESTION. What great statement did Peter make about Jesus?",
+        "answer": "Matthew 16:16  You are the Messiah, the Son of the living God.",
+        "points": 10
+    },
+    {
+        "_id": "200",
+        "question": "Which three of the disciples were Jesus' closest friends?",
+        "answer": "Peter, James, John (Matthew 17:1)",
+        "points": 10
+    },
+    {
+        "_id": "201",
+        "question": "Who did Jesus say was like the foolish man who built his house upon sand?",
+        "answer": "Those who hear His teachings but do not obey them (Matthew 7:26)",
+        "points": 10
+    },
+    {
+        "_id": "202",
+        "question": "Who did Jesus say was like the wise man who built his house upon the rock?",
+        "answer": "Those who hear His teachings and follow them (Matthew 7:24)",
+        "points": 10
+    },
+    {
+        "_id": "203",
+        "question": "In Jesus' parable, who helped the man who had been beaten and robbed?",
+        "answer": "The Good Samaritan (Luke 10:30-37)",
+        "points": 10
+    },
+    {
+        "_id": "204",
+        "question": "In the Parable of the Sower, to what did Jesus compare the seed?",
+        "answer": "The Word of God (Mark 4:14)",
+        "points": 10
+    },
+    {
+        "_id": "205",
+        "question": "What did Jesus teach about material possessions?",
+        "answer": "Don't be greedy. A person's life is not measured by how much they own.(Luke 12:15)",
+        "points": 10
+    },
+    {
+        "_id": "206",
+        "question": "What did Jesus do in healing the man born blind?",
+        "answer": "He put mud on his eyes and told him to go and wash it off. (John 9:1-7)",
+        "points": 10
+    },
+    {
+        "_id": "207",
+        "question": "Which of Jesus' parables tells us that God is willing to forgive and restore the sinner who repents?",
+        "answer": "The Parable of the Prodigal Son (Luke 15:11-32)",
+        "points": 10
+    },
+    {
+        "_id": "208",
+        "question": "How did Jesus answer those who asked if it was right for them to pay taxes to Caesar?",
+        "answer": "Give Caesar what belongs to Caesar, and give God what belongs to God. (Matthew 22:15-22)",
+        "points": 10
+    },
+    {
+        "_id": "209",
+        "question": "How did Jesus feed 5,000 men, plus women and children?",
+        "answer": "He multiplied five loaves and two fish from a boy's lunch. (Matthew 14:13-21; Mark 6:32-44; Luke 9:10-17; John 6:1-9)",
+        "points": 10
+    },
+    {
+        "_id": "210",
+        "question": "Who climbed a tree in order to see Jesus?",
+        "answer": "Zacchaeus (Luke 19:1-6)",
+        "points": 10
+    },
+    {
+        "_id": "211",
+        "question": "How did Jesus come into Jerusalem at the Triumphal Entry?",
+        "answer": "Jesus came riding on the colt of a donkey. (Luke 19:29-35)",
+        "points": 10
+    },
+    {
+        "_id": "212",
+        "question": "How did Jesus teach His disciples humility at the Last Supper?",
+        "answer": "He washed the disciples' feet. (John 13:1-17)",
+        "points": 10
+    },
+    {
+        "_id": "213",
+        "question": "Where did Jesus pray the night before His crucifixion?",
+        "answer": "Gethsemane (Matthew 26:36)",
+        "points": 10
+    },
+    {
+        "_id": "214",
+        "question": "Which apostle betrayed Jesus?",
+        "answer": "Judas Iscariot (Matthew 26:25)",
+        "points": 10
+    },
+    {
+        "_id": "215",
+        "question": "In betraying Jesus, how did Judas show the soldiers who Jesus was?",
+        "answer": "He kissed Jesus. (Matthew 26:49)",
+        "points": 10
+    },
+    {
+        "_id": "216",
+        "question": "What did Jesus prophesy Peter would do on the night of His betrayal?",
+        "answer": "Peter would deny knowing Jesus three times. (Matthew 26:34)",
+        "points": 10
+    },
+    {
+        "_id": "217",
+        "question": "What person did the people ask Pilate to release instead of Jesus?",
+        "answer": "Barabbas (Matthew 27:15-21)",
+        "points": 10
+    },
+    {
+        "_id": "218",
+        "question": "What does the word 'Golgotha' mean?",
+        "answer": "[The] Place of the Skull (Matthew 27:33)",
+        "points": 10
+    },
+    {
+        "_id": "219",
+        "question": "What title did Pilate have placed on Jesus' cross?",
+        "answer": "[JESUS OF NAZARETH], The King of the Jews (Matthew 27:37, Mark 15:26, John 19:19)",
+        "points": 10
+    },
+    {
+        "_id": "220",
+        "question": "How did Jesus die?",
+        "answer": "He was crucified, or nailed to a cross. (Matthew 27:35)",
+        "points": 10
+    },
+    {
+        "_id": "221",
+        "question": "What happened in the realm of nature when Jesus was crucified?",
+        "answer": "The sun became dark for three hours and there was an earthquake. (Matthew 27:45,51)",
+        "points": 10
+    },
+    {
+        "_id": "222",
+        "question": "What did the Roman officer who had been in charge of Jesus' execution say about Jesus?",
+        "answer": "“This man truly was the Son of God!”(Mark 15:39)",
+        "points": 10
+    },
+    {
+        "_id": "223",
+        "question": "Who buried Jesus?",
+        "answer": "Joseph of Arimathea and Nicodemus (John 19:38,39)",
+        "points": 10
+    },
+    {
+        "_id": "224",
+        "question": "Who was the first person to see Jesus after He was resurrected?",
+        "answer": "Mary Magdalene (John 20:1-18)",
+        "points": 10
+    },
+    {
+        "_id": "225",
+        "question": "How was the way made for the women to get inside the tomb of Jesus?",
+        "answer": "An angel had rolled away the stone. (Matthew 28:2)",
+        "points": 10
+    },
+    {
+        "_id": "226",
+        "question": "Who was the disciple who at first doubted Jesus' resurrection?",
+        "answer": "Thomas (John 20:24-29)",
+        "points": 10
+    },
+    {
+        "_id": "227",
+        "question": "After Jesus walked and talked with His apostles for 40 days following His resurrection, what happened to Him?",
+        "answer": "He was taken up into a cloud until they could no longer see Him(Acts 1:1-9)",
+        "points": 10
+    },
+    {
+        "_id": "228",
+        "question": "Who was chosen to replace Judas as an apostle?",
+        "answer": "Matthias (Acts 1:26)",
+        "points": 10
+    },
+    {
+        "_id": "229",
+        "question": "About how many people waited in Jerusalem for the coming of the Holy Spirit?",
+        "answer": "[About] 120 (Acts 1:12-15)",
+        "points": 10
+    },
+    {
+        "_id": "230",
+        "question": "What gift of God was given to the Church on the Day of Pentecost?",
+        "answer": "The gift of the Holy Spirit (Acts 2:1-4)",
+        "points": 10
+    },
+    {
+        "_id": "231",
+        "question": "What Old Testament prophet foretold the outpouring of the Holy Spirit?",
+        "answer": "Joel (Acts 2:16)",
+        "points": 10
+    },
+    {
+        "_id": "232",
+        "question": "About how many people were saved as a result of Peter's sermon on the Day of Pentecost?",
+        "answer": "[About] 3,000 (Acts 2:41)",
+        "points": 10
+    },
+    {
+        "_id": "233",
+        "question": "QUOTATION QUESTION. What did Peter say to the lame man at the temple gate?",
+        "answer": "Acts 3:6  ”I don’t have any silver or gold for you.  But I’ll give you what I have.  In the name of Jesus Christ the Nazarene, get up and walk!”",
+        "points": 10
+    },
+    {
+        "_id": "234",
+        "question": "What was the sin of Ananias and Sapphira?",
+        "answer": "They lied to the Holy Spirit. (Acts 5:3)",
+        "points": 10
+    },
+    {
+        "_id": "235",
+        "question": "Why did the apostles rejoice after being beaten for preaching the gospel?",
+        "answer": "Because they were counted worthy to suffer disgrace for the name of Jesus (Acts 5:40-42)",
+        "points": 10
+    },
+    {
+        "_id": "236",
+        "question": "Who was the first person to be martyred for being a Christian?",
+        "answer": "Stephen (Acts 7:59)",
+        "points": 10
+    },
+    {
+        "_id": "237",
+        "question": "According to Church history, who was the only one of the Twelve Apostles not martyred for his faith in the risen Christ?",
+        "answer": "John ",
+        "points": 10
+    },
+    {
+        "_id": "238",
+        "question": "Why did Saul of Tarsus go to Damascus?",
+        "answer": "To arrest Christians (Acts 9:1,2)",
+        "points": 10
+    },
+    {
+        "_id": "239",
+        "question": "What happened to Saul of Tarsus near Damascus?",
+        "answer": "Jesus [Christ] appeared to him in a light from heaven, and Saul accepted Him as Lord. (Acts 9:3-9)",
+        "points": 10
+    },
+    {
+        "_id": "240",
+        "question": "Who was raised from the dead in answer to Peter's prayer?",
+        "answer": "Tabitha [Dorcas] (Acts 9:36-41)",
+        "points": 10
+    },
+    {
+        "_id": "241",
+        "question": "Who was the Roman officer who sent for Peter to come and preach to him?",
+        "answer": "Cornelius (Acts 10:1)",
+        "points": 10
+    },
+    {
+        "_id": "242",
+        "question": "What happened while Peter was preaching at Cornelius' house?",
+        "answer": "The Holy Spirit fell upon on all who were listening to the message.(Acts 10:44-48)",
+        "points": 10
+    },
+    {
+        "_id": "243",
+        "question": "In what city were Jesus' followers first called 'Christians'?",
+        "answer": "Antioch (Acts 11:26)",
+        "points": 10
+    },
+    {
+        "_id": "244",
+        "question": "How did Peter escape from prison the night before Herod planned to kill him?",
+        "answer": "An angel opened the prison for him. (Acts 12:6-11)",
+        "points": 10
+    },
+    {
+        "_id": "245",
+        "question": "Who helped Paul on his first missionary journey?",
+        "answer": "Barnabas (Acts 13:1-4)",
+        "points": 10
+    },
+    {
+        "_id": "246",
+        "question": "What happened to Paul at Lystra after the people had thought he was a god?",
+        "answer": "He was stoned and left for dead, but God healed him. (Acts 14:11-20)",
+        "points": 10
+    },
+    {
+        "_id": "247",
+        "question": "How did Paul know he was supposed to preach in Macedonia?",
+        "answer": "God showed him a vision of a man from Macedonia calling for help. (Acts 16:9,10)",
+        "points": 10
+    },
+    {
+        "_id": "248",
+        "question": "Who were Paul's chief helpers on his second missionary journey?",
+        "answer": "Silas and Timothy (Acts 15:40; 16:1)",
+        "points": 10
+    },
+    {
+        "_id": "249",
+        "question": "Who wrote the Book of Acts?",
+        "answer": "Luke (Luke 1:3; Acts 1:1)",
+        "points": 10
+    },
+    {
+        "_id": "250",
+        "question": "What was the occupation of Luke?",
+        "answer": "Doctor (Colossians 4:14)",
+        "points": 10
+    },
+    {
+        "_id": "251",
+        "question": "QUOTATION QUESTION. What did Paul tell the Philippian jailer to do in order to be saved?",
+        "answer": "Acts 16:31  “Believe in the Lord Jesus and you will be saved, along with everyone in your household.” ",
+        "points": 10
+    },
+    {
+        "_id": "252",
+        "question": "Who were the tentmakers who assisted Paul at Corinth?",
+        "answer": "Aquila and Priscilla (Acts 18:1-3)",
+        "points": 10
+    },
+    {
+        "_id": "253",
+        "question": "What did the people of Ephesus do with their books of witchcraft to show they had turned to God?",
+        "answer": "They burned them. (Acts 19:18,19)",
+        "points": 10
+    },
+    {
+        "_id": "254",
+        "question": "In Ephesians, what command does Paul give to the children?",
+        "answer": "Children, obey your parents. (Ephesians 6:1)",
+        "points": 10
+    },
+    {
+        "_id": "255",
+        "question": "Does God treat all people alike?",
+        "answer": "Yes, all people are equal before God. (2 Chronicles 19:7; Romans 2:11)",
+        "points": 10
+    },
+    {
+        "_id": "256",
+        "question": "Why did God give the Law?",
+        "answer": "To show us how sinful we are (Romans 3:20)",
+        "points": 10
+    },
+    {
+        "_id": "257",
+        "question": "QUOTATION QUESTION. What is the penalty of sin?",
+        "answer": "Romans 6:23 For the wages of sin is death, but the free gift of God is eternal life through Christ Jesus our Lord.",
+        "points": 10
+    },
+    {
+        "_id": "258",
+        "question": "Why did Jesus die on the cross?",
+        "answer": "He died for our sins. (1 Corinthians 15:3)",
+        "points": 10
+    },
+    {
+        "_id": "259",
+        "question": "Why should we wear all of the armor of God?",
+        "answer": "So that we can resist the attacks of the devil (Ephesians 6:11)",
+        "points": 10
+    },
+    {
+        "_id": "260",
+        "question": "In the Christian's armor, what is the belt?",
+        "answer": "Truth (Ephesians 6:14)",
+        "points": 10
+    },
+    {
+        "_id": "261",
+        "question": "In the Christian's armor, what is the body armor?",
+        "answer": "God’s Righteousness (Ephesians 6:14)",
+        "points": 10
+    },
+    {
+        "_id": "262",
+        "question": "In the Christian's armor, what is worn on the feet?",
+        "answer": "The peace that comes from the good news so that you will be fully prepared(Ephesians 6:15)",
+        "points": 10
+    },
+    {
+        "_id": "263",
+        "question": "In the Christian's armor, what is the shield?",
+        "answer": "Faith (Ephesians 6:16)",
+        "points": 10
+    },
+    {
+        "_id": "264",
+        "question": "In the Christian's armor, what is the helmet?",
+        "answer": "Salvation (Ephesians 6:17)",
+        "points": 10
+    },
+    {
+        "_id": "265",
+        "question": "What should Christians use to protect themselves from the devil’s fiery arrows?",
+        "answer": "The shield of faith (Ephesians 6:16)",
+        "points": 10
+    },
+    {
+        "_id": "266",
+        "question": "What is the Spirit's sword?",
+        "answer": "The Word of God (Ephesians 6:17)",
+        "points": 10
+    },
+    {
+        "_id": "267",
+        "question": "When should Christians rejoice?",
+        "answer": "Always (Philippians 4:4)",
+        "points": 10
+    },
+    {
+        "_id": "268",
+        "question": "To what young pastor did Paul write two letters which are books of the Bible?",
+        "answer": "Timothy ",
+        "points": 10
+    },
+    {
+        "_id": "269",
+        "question": "Who was the slave Paul won to the Lord while in prison?",
+        "answer": "Onesimus (Philemon 10-13)",
+        "points": 10
+    },
+    {
+        "_id": "270",
+        "question": "Why do we love God?",
+        "answer": "We love Him, because He first loved us. (1 John 4:8-19)",
+        "points": 10
+    },
+    {
+        "_id": "271",
+        "question": "What happened to John on the isle of Patmos?",
+        "answer": "God showed him what was going to happen in the last days. (Revelation 4:1)",
+        "points": 10
+    },
+    {
+        "_id": "272",
+        "question": "What is an apostle?",
+        "answer": "A special messenger sent by God ",
+        "points": 10
+    },
+    {
+        "_id": "273",
+        "question": "What is faith?",
+        "answer": "Faith is belief and complete trust in God. ",
+        "points": 10
+    },
+    {
+        "_id": "274",
+        "question": "What is doctrine?",
+        "answer": "Doctrine is teaching from the Bible. ",
+        "points": 10
+    },
+    {
+        "_id": "275",
+        "question": "What is sin?",
+        "answer": "Sin is refusing to do God's will as revealed by His Word and His Spirit. (1 John 3:4; James 4:17)",
+        "points": 10
+    },
+    {
+        "_id": "276",
+        "question": "What is grace?",
+        "answer": "Grace means that God offers us His love and forgiveness as a gift and not because we have earned it or deserve it. ",
+        "points": 10
+    },
+    {
+        "_id": "277",
+        "question": "What is redemption?",
+        "answer": "Redemption is the price Jesus paid for our salvation. (Ephesians 1:7; Colossians 1:13,14)",
+        "points": 10
+    },
+    {
+        "_id": "278",
+        "question": "What is death?",
+        "answer": "Death is the separation of the body and the soul. (Luke 12:20; Matthew 10:28)",
+        "points": 10
+    },
+    {
+        "_id": "279",
+        "question": "What is a prophet?",
+        "answer": "A prophet is a person whom God has chosen to speak for Him in a special way through the power of the Holy Spirit. (Deuteronomy 18:18; Judges 4:4; 1 Samuel 19:20; Acts 2:17)",
+        "points": 10
+    },
+    {
+        "_id": "280",
+        "question": "Who are the angels?",
+        "answer": "Spiritual beings created by God (Hebrews 1:14)",
+        "points": 10
+    },
+    {
+        "_id": "281",
+        "question": "What do we mean when we say that God is immutable?",
+        "answer": "God does not change. He is always the same. (James 1:17)",
+        "points": 10
+    },
+    {
+        "_id": "282",
+        "question": "What is a disciple?",
+        "answer": "A disciple is a learner [follower] of Jesus. ",
+        "points": 10
+    },
+    {
+        "_id": "283",
+        "question": "What is prayer?",
+        "answer": "Prayer is talking with God. ",
+        "points": 10
+    },
+    {
+        "_id": "284",
+        "question": "What is praise?",
+        "answer": "Praise is expressing our love to God for all He is and all He has done. ",
+        "points": 10
+    },
+    {
+        "_id": "285",
+        "question": "What is worship?",
+        "answer": "Worship is exalting and adoring God for who He is.(Psalm 29:2) ",
+        "points": 10
+    },
+    {
+        "_id": "286",
+        "question": "What does 'repentance' mean?",
+        "answer": "Repentance is having a change of mind, heart, and direction. (Acts 17:30; 20:21)",
+        "points": 10
+    },
+    {
+        "_id": "287",
+        "question": "What is justification?",
+        "answer": "When we accept Jesus as our Savior, God accepts us as though we had not sinned. (Romans 5:1)",
+        "points": 10
+    },
+    {
+        "_id": "288",
+        "question": "What is sanctification?",
+        "answer": "Sanctification is being separated from sin and set apart to serve God. (1 Thessalonians 4:3)",
+        "points": 10
+    },
+    {
+        "_id": "289",
+        "question": "How did God give us the Bible?",
+        "answer": "The Holy Spirit inspired holy men, giving them both the truth and the words to write. (2 Peter 1:21)",
+        "points": 20
+    },
+    {
+        "_id": "290",
+        "question": "What do we mean when we say the Bible is infallible?",
+        "answer": "The Bible cannot fail and has no errors. (Psalm 119:160; 1 Thessalonians 2:13; 1 Peter 1:23)",
+        "points": 20
+    },
+    {
+        "_id": "291",
+        "question": "What do we mean when we say the Bible is verbally inspired?",
+        "answer": "God inspired each word of the Bible, not just the thoughts or ideas. (2 Timothy 3:16)",
+        "points": 20
+    },
+    {
+        "_id": "292",
+        "question": "What do we mean when we say the Bible is our authoritative rule of faith and conduct?",
+        "answer": "The Bible has the right to command us in what we believe and what we do. (2 Timothy 3:15-17)",
+        "points": 20
+    },
+    {
+        "_id": "293",
+        "question": "QUOTATION QUESTION. How long will the Bible last?",
+        "answer": "Matthew 24:35  Heaven and earth will disappear, but my words will never disappear. ",
+        "points": 20
+    },
+    {
+        "_id": "294",
+        "question": "QUOTATION QUESTION. Why is it important to memorize Bible verses?",
+        "answer": "Psalm 119:11  I have hidden your word in my heart, that I might not sin against you. ",
+        "points": 20
+    },
+    {
+        "_id": "295",
+        "question": "Does the Bible claim to be inspired?",
+        "answer": "Yes. The words, 'and God said,' or their equivalent, are found over 2,500 times in the Bible. ",
+        "points": 20
+    },
+    {
+        "_id": "296",
+        "question": "What chapter of the Bible is known as the 'love chapter'?",
+        "answer": "1 Corinthians 13 ",
+        "points": 20
+    },
+    {
+        "_id": "297",
+        "question": "Who wrote the first five books of the Bible?",
+        "answer": "Moses ",
+        "points": 20
+    },
+    {
+        "_id": "298",
+        "question": "Who are the four major prophets?",
+        "answer": "Isaiah, Jeremiah, Ezekiel, Daniel ",
+        "points": 20
+    },
+    {
+        "_id": "299",
+        "question": "Which two apostles wrote a Gospel?",
+        "answer": "Matthew and John ",
+        "points": 20
+    },
+    {
+        "_id": "300",
+        "question": "What is a parable?",
+        "answer": "A parable is a story about familiar things which helps us understand spiritual truths. ",
+        "points": 20
+    },
+    {
+        "_id": "301",
+        "question": "What are the four major divisions of the Old Testament?",
+        "answer": "Law, History, Poetry, Prophets ",
+        "points": 20
+    },
+    {
+        "_id": "302",
+        "question": "What wise king wrote much of the book of Proverbs?",
+        "answer": "Solomon ",
+        "points": 20
+    },
+    {
+        "_id": "303",
+        "question": "What is the main theme of the Book of Hebrews?",
+        "answer": "That Jesus is a better priest [mediator] between God and people than were the Old Testament priests (Hebrews 7:11-28)",
+        "points": 20
+    },
+    {
+        "_id": "304",
+        "question": "Which Gospel proves that Jesus is the Messiah by showing the fulfillment of many Old Testament prophecies?",
+        "answer": "Matthew ",
+        "points": 20
+    },
+    {
+        "_id": "305",
+        "question": "Which two Old Testament books tell the history of the Jews after their return from captivity in Babylon?",
+        "answer": "Ezra and Nehemiah ",
+        "points": 20
+    },
+    {
+        "_id": "306",
+        "question": "Who are the three Persons of the Trinity?",
+        "answer": "God the Father, God the Son, God the Holy Spirit (Matthew 28:19; Acts 10:38; 1 Corinthians 13:14)",
+        "points": 20
+    },
+    {
+        "_id": "307",
+        "question": "What do we mean when we say that God is eternal?",
+        "answer": "God has neither beginning nor ending, but always has been and always will be. ",
+        "points": 20
+    },
+    {
+        "_id": "308",
+        "question": "What do we mean when we say that God is omnipresent?",
+        "answer": "God is everywhere at the same time. ",
+        "points": 20
+    },
+    {
+        "_id": "309",
+        "question": "What do we mean when we say that God is omnipotent?",
+        "answer": "God is all-powerful. ",
+        "points": 20
+    },
+    {
+        "_id": "310",
+        "question": "What do we mean when we say that God is omniscient?",
+        "answer": "God is all-wise and all-knowing. ",
+        "points": 20
+    },
+    {
+        "_id": "311",
+        "question": "What part did God the Father have in creation?",
+        "answer": "God the Father gave the commands that caused the visible world to be created out of nothing. (Hebrews 11:3)",
+        "points": 20
+    },
+    {
+        "_id": "312",
+        "question": "What does the Bible declare is the foundation of wisdom?",
+        "answer": "Fear of [respect for] God (Proverbs 9:10)",
+        "points": 20
+    },
+    {
+        "_id": "313",
+        "question": "What kind of worship does God desire?",
+        "answer": "God desires us to worship in spirit and in truth. (John 4:24)",
+        "points": 20
+    },
+    {
+        "_id": "314",
+        "question": "QUOTATION QUESTION. Has Jesus always been God?",
+        "answer": "John 1:1  In the beginning the Word already existed.  The Word was with God, and the Word was God. ",
+        "points": 20
+    },
+    {
+        "_id": "315",
+        "question": "What is Jesus' title of divinity?",
+        "answer": "Son of God ",
+        "points": 20
+    },
+    {
+        "_id": "316",
+        "question": "What is Jesus' title of humanity?",
+        "answer": "Son of Man ",
+        "points": 20
+    },
+    {
+        "_id": "317",
+        "question": "QUOTATION QUESTION. Quote the verse that says Jesus is always the same?",
+        "answer": "Hebrews 13:8  Jesus Christ is the same yesterday, today, and forever. ",
+        "points": 20
+    },
+    {
+        "_id": "318",
+        "question": ") QUOTATION QUESTION. What part did Jesus have in creation?",
+        "answer": "John 1:3-4  God created everything through Him, and nothing was created except through Him.  The Word gave life to everything that was created, and His life brought light to everyone. ",
+        "points": 20
+    },
+    {
+        "_id": "319",
+        "question": "Over how many different Old Testament prophecies were fulfilled by the life and death of Jesus?",
+        "answer": "[Over] 300 ",
+        "points": 20
+    },
+    {
+        "_id": "320",
+        "question": "What was God's first promise of a Savior?",
+        "answer": "God told the serpent that one of Eve's descendants would defeat him. (Genesis 3:15)",
+        "points": 20
+    },
+    {
+        "_id": "321",
+        "question": "How was God's first promise of a Savior fulfilled?",
+        "answer": "Through Jesus' death and resurrection, Satan's power was conquered. (John 12:31; Colossians 2:15)",
+        "points": 20
+    },
+    {
+        "_id": "322",
+        "question": "What promise did God make to Abraham?",
+        "answer": "God promised Abraham that through his descendant all the earth would be blessed. (Genesis 12:3)",
+        "points": 20
+    },
+    {
+        "_id": "323",
+        "question": "Who fulfilled God's promise that Abraham's descendant would bless the whole earth?",
+        "answer": "[Jesus] Christ (Galatians 3:16)",
+        "points": 20
+    },
+    {
+        "_id": "324",
+        "question": "What is the doctrine of Jesus' Incarnation?",
+        "answer": "God the Son became human and lived among us. (John 1:1-2, 14)",
+        "points": 20
+    },
+    {
+        "_id": "325",
+        "question": "QUOTATION QUESTION. According to John's Gospel, why did Jesus come to earth?",
+        "answer": "John 10:10  The thief’s purpose is to steal, and kill, and destroy.  My purpose is to give them a rich and satisfying life. ",
+        "points": 20
+    },
+    {
+        "_id": "326",
+        "question": "QUOTATION QUESTION. According to Luke's Gospel, why did Jesus come to earth?",
+        "answer": "Luke 19:10  For the Son of Man came to seek and save those who are lost.",
+        "points": 20
+    },
+    {
+        "_id": "327",
+        "question": "How did Jesus overcome the temptations of Satan?",
+        "answer": "By using the Scriptures (Matthew 4:4-10)",
+        "points": 20
+    },
+    {
+        "_id": "328",
+        "question": "What is the importance of the doctrine of Jesus' virgin birth?",
+        "answer": "Jesus did not have an earthly father. Because of His supernatural birth, Jesus was both fully God and fully human. (Matthew 1:23; John 1:14)",
+        "points": 20
+    },
+    {
+        "_id": "329",
+        "question": "Why did God instruct Joseph to call Mary's son 'Jesus'?",
+        "answer": "Because He would save His people from their sins (Matthew 1:21)",
+        "points": 20
+    },
+    {
+        "_id": "330",
+        "question": "What is the meaning of the name 'Jesus'?",
+        "answer": "'The Lord is our Savior.' (Matthew 1:21)",
+        "points": 20
+    },
+    {
+        "_id": "331",
+        "question": "What is the meaning of the word 'Christ'?",
+        "answer": "'The Anointed One of God' (Psalm 2:2; Acts 4:26)",
+        "points": 20
+    },
+    {
+        "_id": "332",
+        "question": "How did God anoint Jesus?",
+        "answer": "With the Holy Spirit and power (Acts 10:38)",
+        "points": 20
+    },
+    {
+        "_id": "333",
+        "question": "What Hebrew word is the same as the Greek word 'Christ'?",
+        "answer": "'Messiah' (John 1:41)",
+        "points": 20
+    },
+    {
+        "_id": "334",
+        "question": "QUOTATION QUESTION. How did Jesus say His baptism would be different from  John's?",
+        "answer": "Acts 1:5 John baptized with water, but in just a few days you will be baptized with the Holy Spirit. ",
+        "points": 20
+    },
+    {
+        "_id": "335",
+        "question": "In the Parable of the Good Shepherd, what did Jesus say the Good Shepherd would do for the sheep?",
+        "answer": "Sacrifice His life (John 10:11)",
+        "points": 20
+    },
+    {
+        "_id": "336",
+        "question": "Why is it absolutely necessary to our salvation that Jesus lived a sinless life?",
+        "answer": "If Jesus had sinned then His death would have been the penalty of His sin and would not have had the power to atone for our sins. (Hebrews 4:14,15)",
+        "points": 20
+    },
+    {
+        "_id": "337",
+        "question": "What was proven by Jesus' resurrection?",
+        "answer": "That Jesus was exactly who He claimed to be--Son of God, Savior, and Lord (Romans 1:4; John 8:28)",
+        "points": 20
+    },
+    {
+        "_id": "338",
+        "question": "How important is the doctrine of resurrection to our Christian faith?",
+        "answer": "If Christ was not raised from the dead, our faith is useless. (1 Corinthians 15:16,17)",
+        "points": 20
+    },
+    {
+        "_id": "339",
+        "question": "More than how many people saw Jesus after He was raised from the dead?",
+        "answer": "[More than] 500 (1 Corinthians 15:6)",
+        "points": 20
+    },
+    {
+        "_id": "340",
+        "question": "How long did Jesus walk and talk with His apostles after His resurrection?",
+        "answer": "40 days (Acts 1:3)",
+        "points": 20
+    },
+    {
+        "_id": "341",
+        "question": "Where is Jesus now and what is He doing?",
+        "answer": "Jesus is at the right hand of the Father interceding (pleading) for believers. (Romans 8:34; Hebrews 7:25; 1 John 2:1)",
+        "points": 20
+    },
+    {
+        "_id": "342",
+        "question": "QUOTATION QUESTION. What is Jesus' great 'I am' saying in the Book of Revelation?",
+        "answer": "Revelation 22:13  I am the Alpha and the Omega, the First and the Last, the Beginning and the End. ",
+        "points": 20
+    },
+    {
+        "_id": "343",
+        "question": "How did God create man?",
+        "answer": "He formed man from the dust of the ground and breathed the breath of life into him. (Genesis 2:7)",
+        "points": 20
+    },
+    {
+        "_id": "344",
+        "question": "How did God create woman?",
+        "answer": "God made woman out of one of the ribs of Adam. (Genesis 2:21,22)",
+        "points": 20
+    },
+    {
+        "_id": "345",
+        "question": "How were people created in the image of God?",
+        "answer": "People were created with spiritual natures which permit them to reason, make choices, and to know and love God. (Genesis 1:27)",
+        "points": 20
+    },
+    {
+        "_id": "346",
+        "question": "When Adam and Eve sinned, how did God provide them clothing?",
+        "answer": "He made them clothing from the skins of animals. (Genesis 3:21)",
+        "points": 20
+    },
+    {
+        "_id": "347",
+        "question": "What is meant by 'original sin'?",
+        "answer": "Because Adam and Eve chose to sin, all of their descendants are born in sin and have the tendency to sin. (Romans 5:12)",
+        "points": 20
+    },
+    {
+        "_id": "348",
+        "question": "What were the duties of the Old Testament priest?",
+        "answer": "To intercede with God for the people and offer sacrifices to atone for their sins (Hebrews 5:1)",
+        "points": 20
+    },
+    {
+        "_id": "349",
+        "question": "First John 3:4 contains what definition of sin?",
+        "answer": "Sin is breaking God’s law and is contrary to the law of God. (1 John 3:4)",
+        "points": 20
+    },
+    {
+        "_id": "350",
+        "question": "James 4:17 contains what definition of sin?",
+        "answer": "Knowing to do good but not doing it is sin. (James 4:17)",
+        "points": 20
+    },
+    {
+        "_id": "351",
+        "question": "QUOTATION QUESTION. Have all people sinned?",
+        "answer": "Romans 3:23  For everyone has sinned; we all fall short of God’s glorious standard. ",
+        "points": 20
+    },
+    {
+        "_id": "352",
+        "question": "What does Paul mean when he says that all have sinned and fall short of God’s glorious standard?",
+        "answer": "People, by their own ability, cannot attain the righteousness of God. (Romans 3:23)",
+        "points": 20
+    },
+    {
+        "_id": "353",
+        "question": "Paul said if God was for us no one could be against us. How do we know God is for us?",
+        "answer": "God gave His Son [Jesus] to die for us. (Romans 8:31,32)",
+        "points": 20
+    },
+    {
+        "_id": "354",
+        "question": "QUOTATION QUESTION. Quote the verse of Romans chapter five which tells us the greatest proof of God's love?",
+        "answer": "Romans 5:8  But God showed His great  love for us by sending Christ to die for us while we were still sinners. ",
+        "points": 20
+    },
+    {
+        "_id": "355",
+        "question": "QUOTATION QUESTION. What did Jesus tell Nicodemus was necessary for a person to see the kingdom of God?",
+        "answer": "John 3:3   I tell you the truth, unless you are born again, you can not see the Kingdom of God.",
+        "points": 20
+    },
+    {
+        "_id": "356",
+        "question": "What does it mean to be born again?",
+        "answer": "The Holy Spirit gives birth to spiritual life; we become a new person.(John 3:3-8, 2 Corinthians 5:17)",
+        "points": 20
+    },
+    {
+        "_id": "357",
+        "question": "What instructions did Paul give Christians for getting along with other people?",
+        "answer": "Live in harmony with each other, Don’t be too proud to enjoy the company of ordinary people, Don’t think you know it all(Romans 12:16)",
+        "points": 20
+    },
+    {
+        "_id": "358",
+        "question": "Is it God's will for all people to be saved?",
+        "answer": "Yes, God wants all people to be saved, but each individual must personally choose Christ as Savior. (Romans 10:9-13; 1 Timothy 2:4; 2 Peter 3:9)",
+        "points": 20
+    },
+    {
+        "_id": "359",
+        "question": "What is the only sin which will not be forgiven?",
+        "answer": "Willfully and knowingly speaking evil against [blaspheming] the Holy Spirit (Mark 3:29)",
+        "points": 20
+    },
+    {
+        "_id": "360",
+        "question": "Whom does God oppose, and to whom does He give grace?",
+        "answer": "God opposes the proud but gives grace to the humble. (James 4:6)",
+        "points": 20
+    },
+    {
+        "_id": "361",
+        "question": "In Jesus' story of the Pharisee and tax collector, what was the tax collector's prayer?",
+        "answer": "“Oh God, be merciful to me, for I am a sinner.” (Luke 18:13)",
+        "points": 20
+    },
+    {
+        "_id": "362",
+        "question": "What did the prodigal son say to his father when he came back home?",
+        "answer": "Father, I have sinned against both heaven [God] and you, and I am no longer worthy of being called your son.(Luke 15:21)",
+        "points": 20
+    },
+    {
+        "_id": "363",
+        "question": "How important is the blood of Jesus to our salvation?",
+        "answer": "Without the shedding of blood there is no forgiveness of sin. (Hebrews 9:22)",
+        "points": 20
+    },
+    {
+        "_id": "364",
+        "question": "What is meant by the vicarious atonement?",
+        "answer": "Jesus [Christ] took the punishment for our sins when He died on Calvary, and if we accept Him as Savior we will not have to be punished by God. (1 Peter 2:24)",
+        "points": 20
+    },
+    {
+        "_id": "365",
+        "question": "QUOTATION QUESTION. Quote the verse of Romans chapter one which tells us the power of the gospel?",
+        "answer": "Romans 1:16  For I am not ashamed of this Good News about Christ. It is the power of God at work, saving everyone who believes.",
+        "points": 20
+    },
+    {
+        "_id": "366",
+        "question": "QUOTATION QUESTION. Quote the verse of Ephesians chapter two which tells us how we are saved?",
+        "answer": "Ephesians 2:8 God saved you by His grace when you believed.  And you can’t take credit for this; it is a gift from God. ",
+        "points": 20
+    },
+    {
+        "_id": "367",
+        "question": "In relationship to our salvation, what is meant by adoption?",
+        "answer": "All the privileges of being a child of God, including inheriting eternal life, are restored. (Romans 8:15-17)",
+        "points": 20
+    },
+    {
+        "_id": "368",
+        "question": "Since we are saved because of what Jesus did and not what we do, why should Christians do good things?",
+        "answer": "Because we are saved, we do good things to show our love for God. (Ephesians 2:10)",
+        "points": 20
+    },
+    {
+        "_id": "369",
+        "question": "QUOTATION QUESTION. What are the three great Christian virtues?",
+        "answer": "1 Corinthians 13:13 Three things will last forever- faith, hope and love- and the greatest of these is love. ",
+        "points": 20
+    },
+    {
+        "_id": "370",
+        "question": "According to Hebrews 11:6, those who come to God must believe what?",
+        "answer": "They must believe that God exists and that He rewards those who sincerely seek Him. (Hebrews 11:6)",
+        "points": 20
+    },
+    {
+        "_id": "371",
+        "question": "QUOTATION QUESTION. What did Jesus say was the first and most important commandment?",
+        "answer": "Mark 12:30 You must love the Lord your God with all your heart, all your soul, all your mind, and all your strength. ",
+        "points": 20
+    },
+    {
+        "_id": "372",
+        "question": "QUOTATION QUESTION. What did Jesus say was the second most important commandment?",
+        "answer": "Mark 12:31  “Love your neighbor as yourself” ",
+        "points": 20
+    },
+    {
+        "_id": "373",
+        "question": "QUOTATION QUESTION. What did Jesus say was the greatest display of love?",
+        "answer": "John 15:13  There is no greater love than to lay down one’s life for one’s friends.",
+        "points": 20
+    },
+    {
+        "_id": "374",
+        "question": "QUOTATION QUESTION. How did Jesus say we may show our love for him?",
+        "answer": "John 14:15  If you love me, obey my commandments.",
+        "points": 20
+    },
+    {
+        "_id": "375",
+        "question": "QUOTATION QUESTION. What did Jesus say would cause the world to know that we are His disciples?",
+        "answer": "John 13:35 Your love for one another will prove to the world that you are my disciples.",
+        "points": 20
+    },
+    {
+        "_id": "376",
+        "question": "QUOTATION QUESTION. Is it necessary that a Christian love others?",
+        "answer": "1 John 4:7-8 Any one who loves is a child of God and knows God.  But anyone who does not love does not know God, for God is love. ",
+        "points": 20
+    },
+    {
+        "_id": "377",
+        "question": "QUOTATION QUESTION. Quote the verse which tells why it is necessary to live a peaceful and holy life?",
+        "answer": "Hebrews 12:14  Work at living in peace with everyone, and work at living a holy life, for those who are not holy will not see the Lord.",
+        "points": 20
+    },
+    {
+        "_id": "378",
+        "question": "Why should we be careful about what we think?",
+        "answer": "Because our thoughts determine who we are and what we say and do (Proverbs 4:23-27; Matthew 12:34,35)",
+        "points": 20
+    },
+    {
+        "_id": "379",
+        "question": "Why should a Christian keep pure in body and mind, before and after marriage?",
+        "answer": "Because immoral behavior destroys the purity and happiness God intends marriage to have (1 Corinthians 6:18-20; Hebrews 13:4)",
+        "points": 20
+    },
+    {
+        "_id": "380",
+        "question": "QUOTATION QUESTION. What does James say we must do to keep from fooling ourselves?",
+        "answer": "James 1:22  But don’t just listen to God’s Word. You must do what it says.  Otherwise, you are only fooling yourselves. ",
+        "points": 20
+    },
+    {
+        "_id": "381",
+        "question": "Why were the Christians at Berea honored?",
+        "answer": "Because they received the word eagerly and studied the Scriptures every day(Acts 17:10-12)",
+        "points": 20
+    },
+    {
+        "_id": "382",
+        "question": "QUOTATION QUESTION. According to First Thessalonians chapter five, when should a Christian thank God?",
+        "answer": "1 Thessalonians 5:18  Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus.",
+        "points": 20
+    },
+    {
+        "_id": "383",
+        "question": "According to Ecclesiates 12:1, when should we begin to seek God?",
+        "answer": "In our youth (Ecclesiastes 12:1)",
+        "points": 20
+    },
+    {
+        "_id": "384",
+        "question": "What did Paul tell Timothy was great wealth?",
+        "answer": "True godliness with contentment is great wealth. (1 Timothy 6:6)",
+        "points": 20
+    },
+    {
+        "_id": "385",
+        "question": "QUOTATION QUESTION. What is the Golden Rule?",
+        "answer": "Matthew 7:12 'Do to others whatever you would like them to do to you.' ",
+        "points": 20
+    },
+    {
+        "_id": "386",
+        "question": "QUOTATION QUESTION. Quote the verse ofPhilippians that expresses what the Christian'sattitude should be toward both life and death?",
+        "answer": "Philippians 1:21 For to me, living means living forChrist, and dying is even better.",
+        "points": 20
+    },
+    {
+        "_id": "387",
+        "question": "QUOTATION QUESTION. What rule do we find in Proverbs for avoiding trouble with others?",
+        "answer": "Proverbs 15:1 A gentle answer deflects anger, but harsh words make tempers flare.",
+        "points": 20
+    },
+    {
+        "_id": "388",
+        "question": "How should we regard our school teachers, police officers, and other government authorities?",
+        "answer": "We should obey them because their authority comesfrom God.(Romans 13:1–3)",
+        "points": 20
+    },
+    {
+        "_id": "389",
+        "question": "How should we regard our Sunday School teachers, pastors, and other church leaders?",
+        "answer": "We should obey them because they are responsible to God for our souls. (Hebrews 13:17)",
+        "points": 20
+    },
+    {
+        "_id": "390",
+        "question": "What does 'intercession' mean?",
+        "answer": "To pray to God for someone else (1 Timothy 2:1)",
+        "points": 20
+    },
+    {
+        "_id": "391",
+        "question": "Who intercedes for the Christian?",
+        "answer": "The Holy Spirit and Jesus (Mark 16:19; Romans 8:26,27,34; Hebrews 7:25)",
+        "points": 20
+    },
+    {
+        "_id": "392",
+        "question": "What does Romans 8:26 say is the main weakness of our prayers?",
+        "answer": "We don't know what God wants us to pray for (Romans 8:26)",
+        "points": 20
+    },
+    {
+        "_id": "393",
+        "question": "Why should a Christian not marry a person who is not a Christian?",
+        "answer": "Because God's Word says we should not team up with an unbeliever(2 Corinthians 6:14–15)",
+        "points": 20
+    },
+    {
+        "_id": "394",
+        "question": "Is it a sin to be tempted?",
+        "answer": "No, it is sin only when we yield to temptation. (James 1:12-15)",
+        "points": 20
+    },
+    {
+        "_id": "395",
+        "question": "According to First John, what are the three common temptations?",
+        "answer": "• Craving for physical pleasure• Craving for everything we see• Pride [in our achievements and possessions](1 John 2:16)",
+        "points": 20
+    },
+    {
+        "_id": "396",
+        "question": "What are the three main sources of temptation?",
+        "answer": "• The devil• The world• Our own desires(Matthew 4:1; John 16:33; James 1:14; 1 John 2:16)",
+        "points": 20
+    },
+    {
+        "_id": "397",
+        "question": "What part did the Holy Spirit have in creation?",
+        "answer": "The Spirit of God was hovering over the surface of thewaters.(Genesis 1:2)",
+        "points": 20
+    },
+    {
+        "_id": "398",
+        "question": "Jesus said the Holy Spirit would convict, or reprove, the world of what three things?",
+        "answer": "Sin, Righteousness, Judgment (John 16:8-11)",
+        "points": 20
+    },
+    {
+        "_id": "399",
+        "question": "Why does the Holy Spirit convict, or reprove, the world of sin?",
+        "answer": "Because the world failed to believe on Jesus (John 16:8,9)",
+        "points": 20
+    },
+    {
+        "_id": "400",
+        "question": "Whom does the Holy Spirit glorify?",
+        "answer": "Jesus [Christ] (John 16:14)",
+        "points": 20
+    },
+    {
+        "_id": "401",
+        "question": "What are the continuing spiritual evidences of the Spirit-filled life?",
+        "answer": "• Joy and contentment• Victory over sin• Ability [power] to share the gospel• Desire to know God and His Word(Galatians 5:22,23; Romans 8:5,6,13; Acts 1:8;Ephesians 1:17)",
+        "points": 20
+    },
+    {
+        "_id": "402",
+        "question": "The Holy Spirit guides Christians into what?",
+        "answer": "Truth (John 16:13)",
+        "points": 20
+    },
+    {
+        "_id": "403",
+        "question": "What part does the Holy Spirit have in our salvation?",
+        "answer": "The Holy Spirit convicts of sin and makes the repentant sinner a new person. (Titus 3:5; John 16:9)",
+        "points": 20
+    },
+    {
+        "_id": "404",
+        "question": "Does the Holy Spirit dwell in every Christian?",
+        "answer": "Yes, the Holy Spirit comes into our hearts when we believe on Jesus. (Romans 8:9)",
+        "points": 20
+    },
+    {
+        "_id": "405",
+        "question": "What did Paul tell the Ephesians was God'sguarantee of our inheritance?",
+        "answer": "The Holy Spirit, promised long ago(Ephesians 1:13–14)",
+        "points": 20
+    },
+    {
+        "_id": "406",
+        "question": "Why did Jesus say it was necessary that He go away?",
+        "answer": "So that the Advocate [Holy Spirit] might come.(John 16:7)",
+        "points": 20
+    },
+    {
+        "_id": "407",
+        "question": "QUOTATION QUESTION. According to Zechariah, how can we do God's work?",
+        "answer": "Zechariah 4:6 'It is not by force nor by strength, butby my Spirit, says the Lord.'. ",
+        "points": 20
+    },
+    {
+        "_id": "408",
+        "question": "When did God first baptize believers in the Holy Spirit?",
+        "answer": "On the Day of Pentecost (Acts 2:1-4)",
+        "points": 20
+    },
+    {
+        "_id": "409",
+        "question": "QUOTATION QUESTION. Quote the verse of Acts chapter two that describes the disciples of Jesus receiving the outpouring of the Holy Spirit?",
+        "answer": "Acts 2:4 And everyone present was filled with theHoly Spirit and began speaking in other languages, as the Holy Spirit gave them this ability",
+        "points": 20
+    },
+    {
+        "_id": "410",
+        "question": "What were Jesus' disciples doing when they were baptized in the Holy Spirit?",
+        "answer": "They were praying. (Acts 1:14)",
+        "points": 20
+    },
+    {
+        "_id": "411",
+        "question": "QUOTATION QUESTION. What did Peter tell the people at Pentecost to do in order to receive the gift of the Holy Spirit?",
+        "answer": "Acts 2:38 “Each of you must repent of your sins andturn to God, and be baptized in the name of JesusChrist for the forgiveness of your sins. Then you willreceive the gift of the Holy Spirit.'. ",
+        "points": 20
+    },
+    {
+        "_id": "412",
+        "question": "Is the baptism in the Holy Spirit the same as salvation?",
+        "answer": "No, Paul asked the Ephesian Christians if they had received the Holy Spirit since they believed. (Acts 19:2)",
+        "points": 20
+    },
+    {
+        "_id": "413",
+        "question": "What are the purposes of the baptism in the Holy Spirit?",
+        "answer": "To help us know Christ [Jesus] better, To assist us in understanding God's Word, To give us power to witness (John 15:26; 16:13; Acts 1:8)",
+        "points": 20
+    },
+    {
+        "_id": "414",
+        "question": "What is the initial physical evidence of the baptism in the Holy Spirit?",
+        "answer": "Speaking in other languages [tongues] as the HolySpirit enables.(Acts 2:4)",
+        "points": 20
+    },
+    {
+        "_id": "415",
+        "question": "Why do we believe that speaking with other tongues is the initial physical evidence of the baptism in the Holy Spirit?",
+        "answer": "Because it is the pattern of the New Testament Church (Acts 2:4; 8:14-21; 9:17; 10:46; 19:6; 1 Corinthians 14:18)",
+        "points": 20
+    },
+    {
+        "_id": "416",
+        "question": "What is the Church?",
+        "answer": "A body [company] of born-again people who have been called out from the world; who have faith in and give allegiance to the Lord Jesus Christ (Colossians 1:18-24; 1 Peter 2:9)",
+        "points": 20
+    },
+    {
+        "_id": "417",
+        "question": "What three things does Paul say make up God’s kingdom?",
+        "answer": "• Righteousness [living a life of goodness]• Peace• Joy in the Holy Spirit.(Romans 14:17)",
+        "points": 20
+    },
+    {
+        "_id": "418",
+        "question": "Who is the Head of the Church?",
+        "answer": "Jesus [Christ](1 Corinthians 3:11)",
+        "points": 20
+    },
+    {
+        "_id": "419",
+        "question": "Who is the foundation of the Church?",
+        "answer": "Jesus [Christ](1 Corinthians 3:11)",
+        "points": 20
+    },
+    {
+        "_id": "420",
+        "question": "How does Jeremiah 1:5 proclaim God’s value and plan for our life?",
+        "answer": "[The Lord gave me this message:] I knew you before I formed you in your mother’s womb.   Before you were born I set you apart.(Jeremiah 1:4-5)",
+        "points": 20
+    },
+    {
+        "_id": "421",
+        "question": "What three figures of speech do Bible writers use to describe the church?",
+        "answer": "A body, a building, a bride(1 Corinthians 3:9; 2 Corinthians 11:2; Ephesians 2:16, 20–21; 5:25–27)",
+        "points": 20
+    },
+    {
+        "_id": "422",
+        "question": "Who builds the Church?",
+        "answer": "Jesus [Christ] (Matthew 16:18)",
+        "points": 20
+    },
+    {
+        "_id": "423",
+        "question": "QUOTATION QUESTION. What power is there in united prayer?",
+        "answer": "Matthew 18:19 “If two of you agree here on earthconcerning anything you ask, my Father in heavenwill do it for you.”",
+        "points": 20
+    },
+    {
+        "_id": "424",
+        "question": "QUOTATION QUESTION. What is the mission of the Church?",
+        "answer": "Mark 16:15 “Go into all the world and preach theGood News to everyone.”",
+        "points": 20
+    },
+    {
+        "_id": "425",
+        "question": "Jesus said that God had planned for His house to be used as what?",
+        "answer": "A house of prayer (Matthew 21:13)",
+        "points": 20
+    },
+    {
+        "_id": "426",
+        "question": "Why does God give ministers to the Church?",
+        "answer": "To help Christians grow so they can help others (Ephesians 4:11-13)",
+        "points": 20
+    },
+    {
+        "_id": "427",
+        "question": "What do we mean by a 'calling to the ministry'?",
+        "answer": "A person must have a special impression of the Spirit to serve the Lord through a particular area of ministry. (1 Timothy 1:12)",
+        "points": 20
+    },
+    {
+        "_id": "428",
+        "question": "How should a church be supported?",
+        "answer": "By tithes and offerings from those to whom it ministers (Malachi 3:10; 1 Corinthians 16:2)",
+        "points": 20
+    },
+    {
+        "_id": "429",
+        "question": "What is the tithe?",
+        "answer": "One-tenth of one's income which belongs to God and should be given to the church to support its ministries (Leviticus 27:30-32; Malachi 3:10)",
+        "points": 20
+    },
+    {
+        "_id": "430",
+        "question": "Who was the first person in the Bible to pay tithes, and to whom did he pay them?",
+        "answer": "Abraham paid tithes to Melchizedek. (Genesis 14:18-20)",
+        "points": 20
+    },
+    {
+        "_id": "431",
+        "question": "What are offerings?",
+        "answer": "Something given in worship or devotion to God in addition to the tithe (Malachi 3:8)",
+        "points": 20
+    },
+    {
+        "_id": "432",
+        "question": "Why do Christians traditionally worship on Sunday instead of the Sabbath?",
+        "answer": "Because Jesus fulfilled the Sabbath, we worship and rest on the day of His resurrection. (Acts 20:7; 1 Corinthians 16:2; Colossians 2:16–17)",
+        "points": 20
+    },
+    {
+        "_id": "433",
+        "question": "What are the two ordinances of the Church?",
+        "answer": "Water baptism and communion ",
+        "points": 20
+    },
+    {
+        "_id": "434",
+        "question": "What is symbolized, or pictured, by water baptism?",
+        "answer": "The death of the old sinful nature and a new life in Christ (Romans 6:4-6)",
+        "points": 20
+    },
+    {
+        "_id": "435",
+        "question": "Who should be baptized in water?",
+        "answer": "Every person who believes in Jesus [Christ] as Savior (Acts 2:41)",
+        "points": 20
+    },
+    {
+        "_id": "436",
+        "question": "What is the proper method of water baptism?",
+        "answer": "Immersion in water (Acts 8:38)",
+        "points": 20
+    },
+    {
+        "_id": "437",
+        "question": "In whose name should Christians be baptized?",
+        "answer": "In the name of the Father, and the Son, and the Holy Spirit (Matthew 28:19)",
+        "points": 20
+    },
+    {
+        "_id": "438",
+        "question": "In communion, what is symbolized by the bread and the cup?",
+        "answer": "The bread represents the body of Jesus, and the cup represents His blood which He shed for our sins. (1 Corinthians 11:24,25)",
+        "points": 20
+    },
+    {
+        "_id": "439",
+        "question": "QUOTATION QUESTION. Quote the verse from First Corinthians in which Paul explains the purpose of the Lord's Supper?",
+        "answer": "1 Corinthians 11:26 For every time you eat this bread and drink this cup, you are announcing the Lord’s death until he comes again.",
+        "points": 20
+    },
+    {
+        "_id": "440",
+        "question": "At the communion service, who is to judge who is worthy to partake?",
+        "answer": "Everyone should examine themselves. (1 Corinthians 11:28)",
+        "points": 20
+    },
+    {
+        "_id": "441",
+        "question": "How did death come into the world?",
+        "answer": "Death first came as a result of willful sin. (Romans 5:12; 8:18-23)",
+        "points": 20
+    },
+    {
+        "_id": "442",
+        "question": "What prophecy did Isaiah make concerning Jesus' power to heal?",
+        "answer": "He took our sicknesses and removed our diseases. (Isaiah 53:4–5; Matthew 8:17)",
+        "points": 20
+    },
+    {
+        "_id": "443",
+        "question": "What was the purpose of Jesus' miracles?",
+        "answer": "They showed God the Father's endorsement [approval] of Him. (Acts 2:22)",
+        "points": 20
+    },
+    {
+        "_id": "444",
+        "question": "What is a great lesson from the Book of Job?",
+        "answer": "Not all misfortune which comes to a believer is punishment for sin. ",
+        "points": 20
+    },
+    {
+        "_id": "445",
+        "question": "What does James instruct us to do if we are sick?",
+        "answer": "We should ask the elders [ministers] to anoint us with oil and pray for God to heal us. (James 5:14-16)",
+        "points": 20
+    },
+    {
+        "_id": "446",
+        "question": "What is the Christian's blessed hope?",
+        "answer": "The return of Jesus [Christ] (Titus 2:13)",
+        "points": 20
+    },
+    {
+        "_id": "447",
+        "question": "What is the Rapture?",
+        "answer": "When Jesus [Christ] returns to take His Church-the believers both dead and living-out of this world(1 Thessalonians 4:16–17)",
+        "points": 20
+    },
+    {
+        "_id": "448",
+        "question": "Who knows when the Rapture will occur?",
+        "answer": "Only God the Father (Matthew 24:36)",
+        "points": 20
+    },
+    {
+        "_id": "449",
+        "question": "Why should the coming of Jesus not surprise the Christians?",
+        "answer": "Because Christians do not live in the darkness (1 Thessalonians 5:4)",
+        "points": 20
+    },
+    {
+        "_id": "450",
+        "question": "What two events will happen in heaven shortly after the Rapture?",
+        "answer": "The judgment of Christians and the wedding feast of the Lamb(2 Corinthians 5:10; Revelation 19:7-9)",
+        "points": 20
+    },
+    {
+        "_id": "451",
+        "question": "What is the Great Tribulation?",
+        "answer": "The Great Tribulation is a period of extreme trouble and turmoil before the final judgment. (Matthew 24:21)",
+        "points": 20
+    },
+    {
+        "_id": "452",
+        "question": "What do we mean when we speak of the Antichrist?",
+        "answer": "The man who will rule the world during the Great Tribulation and will attempt to make all people worship him as God (2 Thessalonians 2:3,4)",
+        "points": 20
+    },
+    {
+        "_id": "453",
+        "question": "What is the Millennium?",
+        "answer": "A future period of one thousand years when Jesus [Christ] shall rule over the earth (Revelation 20:4)",
+        "points": 20
+    },
+    {
+        "_id": "454",
+        "question": "What will happen to Satan during the Millennium?",
+        "answer": "He will be imprisoned in a bottomless pit so that he cannot tempt people. (Revelation 20:1-3)",
+        "points": 20
+    },
+    {
+        "_id": "455",
+        "question": "What will happen at the conclusion of the Millennium?",
+        "answer": "Satan will be loosed from the bottomless pit, and Christ [Jesus] will completely conquer him and his followers. (Revelation 20:1-3,7-10)",
+        "points": 20
+    },
+    {
+        "_id": "456",
+        "question": "What two appointments will all people keep?",
+        "answer": "Death and judgment (Hebrews 9:27)",
+        "points": 20
+    },
+    {
+        "_id": "457",
+        "question": "What is heaven?",
+        "answer": "Heaven is the place of eternal joy which God is preparing for those who love Him and accept Jesus [Christ] as their Savior. (Matthew 25:34)",
+        "points": 20
+    },
+    {
+        "_id": "458",
+        "question": "What is done by everyone who looks for Christ's appearing?",
+        "answer": "They keep themselves pure. (1 John 3:2,3)",
+        "points": 20
+    },
+    {
+        "_id": "459",
+        "question": "Who will spend eternity in heaven?",
+        "answer": "Those who accept Christ [Jesus] as Savior and whose names are written in the Lamb's Book of Life (Revelation 21:27)",
+        "points": 20
+    },
+    {
+        "_id": "460",
+        "question": "Name five things that will not be found in heaven?",
+        "answer": "• Tears• Death• Sorrow• Pain• Evil(Revelation 21:4,27)",
+        "points": 20
+    },
+    {
+        "_id": "461",
+        "question": "What is the last enemy to be destroyed?",
+        "answer": "Death (1 Corinthians 15:25,26)",
+        "points": 20
+    },
+    {
+        "_id": "462",
+        "question": "What is hell?",
+        "answer": "A place of eternal fire, punishment, and torment (Mark 9:43–48; Luke 16:19-31; Revelation 20:10)",
+        "points": 20
+    },
+    {
+        "_id": "463",
+        "question": "For whom did God prepare hell?",
+        "answer": "The devil and his demons (Matthew 25:41)",
+        "points": 20
+    },
+    {
+        "_id": "464",
+        "question": "Who will spend eternity in the lake of fire?",
+        "answer": "All who refuse Christ [Jesus] as Savior and whose names are not written in the Lamb's Book of Life (Revelation 20:15)",
+        "points": 20
+    },
+    {
+        "_id": "465",
+        "question": "Where did the devil come from?",
+        "answer": "The devil [Satan] was an angel whom God had to punish for trying to make himself greater than God. (Isaiah 14:12-15; Ezekiel 28:11-18)",
+        "points": 20
+    },
+    {
+        "_id": "466",
+        "question": "Why is the devil not as powerful as God?",
+        "answer": "The devil was created by God and has been defeated by Jesus' death and resurrection. (John 16:11; Colossians 1:16)",
+        "points": 20
+    },
+    {
+        "_id": "467",
+        "question": "Why can't evil powers control a Christian?",
+        "answer": "Because the [Holy] Spirit who lives in you is greater than the spirit who lives in the world (1 John 4:4)",
+        "points": 20
+    },
+    {
+        "_id": "468",
+        "question": "What should a Christian's attitude be toward spiritism, astrology, and other occult practices?",
+        "answer": "Christians should avoid all occult practices because Scripture specifically forbids them. (Isaiah 47:12-15)",
+        "points": 20
+    },
+    {
+        "_id": "469",
+        "question": "What happens to a Christian's soul and spirit at death?",
+        "answer": "The Christian's soul and spirit go immediately to be with the Lord. (2 Corinthians 5:8)",
+        "points": 20
+    },
+    {
+        "_id": "470",
+        "question": "What story of Jesus indicates that both the righteous and the wicked are conscious after death?",
+        "answer": "The story of Lazarus and the rich man (Luke 16:19-31)",
+        "points": 20
+    },
+    {
+        "_id": "471",
+        "question": "What confession of faith in eternal life and resurrection did Job make?",
+        "answer": "Job declared that even though he would die and his body decay he would be resurrected and see God. (Job 19:25,26)",
+        "points": 20
+    },
+    {
+        "_id": "472",
+        "question": ") Who will be resurrected?",
+        "answer": "Both the righteous and the wicked--the righteous to receive eternal life and the wicked to receive eternal punishment (John 5:28,29)",
+        "points": 20
+    },
+    {
+        "_id": "473",
+        "question": "Which chapter of the Bible is known as the 'resurrection chapter'?",
+        "answer": "1 Corinthians 15 (1 Corinthians 15)",
+        "points": 20
+    },
+    {
+        "_id": "474",
+        "question": "In First Corinthians chapter 15, what illustration does Paul use to explain the resurrection of Christians?",
+        "answer": "The sprouting of a new plant from a seed (1 Corinthians 15:36-44)",
+        "points": 20
+    },
+    {
+        "_id": "475",
+        "question": "There are over how many references in the New Testament to the second coming of Christ?",
+        "answer": "[Over] 300 ",
+        "points": 20
+    },
+    {
+        "_id": "476",
+        "question": "When will Christians who have died be resurrected?",
+        "answer": "At the rapture of the Church (1 Thessalonians 4:16,17)",
+        "points": 20
+    },
+    {
+        "_id": "477",
+        "question": "Jesus said that the age or time of His return will be like the days of whom?",
+        "answer": "Noah and Lot (Luke 17:26-28)",
+        "points": 20
+    },
+    {
+        "_id": "478",
+        "question": "What do we mean when we speak of the 'Revelation' of Christ?",
+        "answer": "His return to earth to rule and reign for one thousand years following the Great Tribulation (2 Thessalonians 2:8; Revelation 20:4-6)",
+        "points": 20
+    },
+    {
+        "_id": "479",
+        "question": "What two great events comprise the Second Coming of Christ?",
+        "answer": "The Rapture and Christ's revelation (1 Thessalonians 4:16,17; 2 Thessalonians 2:8)",
+        "points": 20
+    },
+    {
+        "_id": "480",
+        "question": "Which of Jesus' parables tells us that some who claim to be Christians will be unprepared for His return?",
+        "answer": "The Parable of the Five Wise and Five Foolish Bridesmaids (Matthew 25:1–13)",
+        "points": 20
+    },
+    {
+        "_id": "481",
+        "question": "QUOTATION QUESTION. According to Romans chapter eight, what things cannot separate us from God's love?",
+        "answer": "Romans 8:38–39 And I am convinced that nothing can ever separate us from God’s love. Neither death nor life, neither angels nor demons, neither our fears for today nor our worries about tomorrow—not even the powers of hell can separate us from God’s love. No power in the sky above or in the earth below— indeed, nothing in all creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord.",
+        "points": 30
+    },
+    {
+        "_id": "482",
+        "question": "QUOTATION QUESTION. Who can become God's children?",
+        "answer": "John 1:11–12 He came to his own people, and even they rejected him. But to all who believed him and accepted him, he gave the right to become children of God.",
+        "points": 30
+    },
+    {
+        "_id": "483",
+        "question": "QUOTATION QUESTION. How can we determine God's will for our lives?",
+        "answer": "Proverbs 3:5–6 Trust in the Lord with all your heart; do not depend on your own understanding. Seek his will in all you do, and he will show you which path to take",
+        "points": 30
+    },
+    {
+        "_id": "484",
+        "question": "QUOTATION QUESTION. How important is church attendance?",
+        "answer": "Hebrews 10:25 And let us not neglect our meeting together, as some people do, but encourage one another, especially now that the day of his return is drawing near.",
+        "points": 30
+    },
+    {
+        "_id": "485",
+        "question": "QUOTATION QUESTION. Is all the Bible inspired?",
+        "answer": "2 Timothy 3:16 All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right.",
+        "points": 30
+    },
+    {
+        "_id": "486",
+        "question": "What four natural or logical evidences do we have that the Bible is inspired?",
+        "answer": "Findings of archaeology, Its unity, Its endurance, Its timelessness, Its influence on people and nations, Its many fulfilled prophecies (Accept any four answers)",
+        "points": 30
+    },
+    {
+        "_id": "487",
+        "question": " QUOTATION QUESTION. Why should we study the Bible?",
+        "answer": "2 Timothy 2:15 Work hard so you can present yourself to God and receive his approval. Be a good worker, one who does not need to be ashamed and who correctly explains the word of truth. ",
+        "points": 30
+    },
+    {
+        "_id": "488",
+        "question": "QUOTATION QUESTION. What did John say was his purpose for writing his Gospel?",
+        "answer": "John 20:31 But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name.",
+        "points": 30
+    },
+    {
+        "_id": "489",
+        "question": "QUOTATION QUESTION. How powerful is God's word?",
+        "answer": "Hebrews 4:12 For the word of God is alive and powerful. It is sharper than the sharpest two-edged sword, cutting between soul and spirit, between joint and marrow. It exposes our innermost thoughts and desires.",
+        "points": 30
+    },
+    {
+        "_id": "490",
+        "question": "What five books of the Bible are called the 'Pentateuch'?",
+        "answer": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy ",
+        "points": 30
+    },
+    {
+        "_id": "491",
+        "question": "What are the twelve books of Old Testament history?",
+        "answer": "Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chronicles, Ezra, Nehemiah, Esther ",
+        "points": 30
+    },
+    {
+        "_id": "492",
+        "question": "What are the five books of Old Testament poetry?",
+        "answer": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon",
+        "points": 30
+    },
+    {
+        "_id": "493",
+        "question": "What five Old Testament books were written by the major prophets?",
+        "answer": "Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel ",
+        "points": 30
+    },
+    {
+        "_id": "494",
+        "question": "What twelve Old Testament books were written by the minor prophets?",
+        "answer": "Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi ",
+        "points": 30
+    },
+    {
+        "_id": "495",
+        "question": "What are the five books of New Testament history?",
+        "answer": "Matthew, Mark, Luke, John, Acts ",
+        "points": 30
+    },
+    {
+        "_id": "496",
+        "question": "What are the thirteen epistles written by Paul?",
+        "answer": "Romans, 1 & 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 & 2 Thessalonians, 1 & 2 Timothy, Titus, Philemon ",
+        "points": 30
+    },
+    {
+        "_id": "497",
+        "question": "What are the eight General Epistles?",
+        "answer": "Hebrews, James, 1 & 2 Peter, 1, 2, & 3 John, Jude ",
+        "points": 30
+    },
+    {
+        "_id": "498",
+        "question": "What are the five books of the New Testament written by John?",
+        "answer": "Gospel of John, 1, 2, & 3 John, Revelation ",
+        "points": 30
+    },
+    {
+        "_id": "499",
+        "question": "QUOTATION QUESTION. Quote the verse which declares only Jesus can give us salvation?",
+        "answer": "Acts 4:12  'There is salvation in no one else! God has given no other name under heaven by which we must be saved.”",
+        "points": 30
+    },
+    {
+        "_id": "500",
+        "question": "Give five of Jesus' 'I am' declarations from the Gospel of John?",
+        "answer": "[I am the] Bread of Life • [I am the] Light of the World •  [I am the] Gate • [I am the] Good Shepherd • [I am the] Resurrection and the Life • [I am the] Way [the] Truth and [the] Life • [I am the] True Grapevine [Vine](Accept any five answers.)(John 6:35; 9:5; 10:9; 10:11; 11:25; 14:6; 15:1)",
+        "points": 30
+    },
+    {
+        "_id": "501",
+        "question": "QUOTATION QUESTION. What is the great prophecy in Isaiah chapter nine concerning Jesus' birth?",
+        "answer": "Isaiah 9:6 For a child is born to us, a son is given to us. The government will rest on his shoulders. And he will be called: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace",
+        "points": 30
+    },
+    {
+        "_id": "502",
+        "question": "QUOTATION QUESTION. What prophecy did Jesus make to Nicodemus concerning His atoning death?",
+        "answer": "John 3:14–15 'And as Moses lifted up the bronze snake on a pole in the wilderness, so the Son of Man must be lifted up, so that everyone who believes in him will have eternal life.'",
+        "points": 30
+    },
+    {
+        "_id": "503",
+        "question": "What is meant by the fullness of Christ's atonement?",
+        "answer": "That Jesus' death purchased both forgiveness from sin and freedom from its penalty (Romans 8:32; 1 Peter 2:24)",
+        "points": 30
+    },
+    {
+        "_id": "504",
+        "question": "QUOTATION QUESTION. Quote the verse of Second Corinthians which speaks of all three members of the Trinity?",
+        "answer": "2 Corinthians 13:14 May the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you all.",
+        "points": 30
+    },
+    {
+        "_id": "505",
+        "question": "QUOTATION QUESTION. Quote the verse of Matthew's Gospel which tells of Jesus' supernatural birth?",
+        "answer": "Matthew 1:23 'Look! The virgin will conceive a child! She will give birth to a son, and they will call him Immanuel, which means 'God is with us.''",
+        "points": 30
+    },
+    {
+        "_id": "506",
+        "question": "QUOTATION QUESTION. When Thomas asked about the way to heaven, what did Jesus say?",
+        "answer": "Matthew 1:23 'Look! The virgin will conceive a child! She will give birth to a son, and they will call him Immanuel, which means 'God is with us.'' ",
+        "points": 30
+    },
+    {
+        "_id": "507",
+        "question": "QUOTATION QUESTION. What saying of Jesus to Martha tells us that Jesus has power over death?",
+        "answer": "John 11:25 “I am the resurrection and the life. Anyone who believes in me will live, even after dying.'",
+        "points": 30
+    },
+    {
+        "_id": "508",
+        "question": "What does the Bible tell us about the life of Jesus between the time he was 12 and 30?",
+        "answer": "He obeyed His parents, grew mentally and physically, and gained favor with both God and people. (Luke 2:40,51,52)",
+        "points": 30
+    },
+    {
+        "_id": "509",
+        "question": "QUOTATION QUESTION. In the Sermon on the Mount, what did Jesus say was His relationship to the Law and the Prophets?",
+        "answer": "Matthew 5:17 'Don’t misunderstand why I have come. I did not come to abolish the law of Moses or the writings of the prophets. No, I came to accomplish their purpose.' ",
+        "points": 30
+    },
+    {
+        "_id": "510",
+        "question": "What three persons did Jesus raise from the dead?",
+        "answer": "Jairus' daughter, A widow's son, Lazarus (Mark 5:35-43; Luke 7:12-15; John 11:43,44)",
+        "points": 30
+    },
+    {
+        "_id": "511",
+        "question": "What three prophecies did Zechariah make about Jesus' betrayal?",
+        "answer": "The betrayer would be paid thirty pieces of silver. The money would be thrown down in the temple. The money would be used to buy the potter's field. (Zechariah 11:12,13)",
+        "points": 30
+    },
+    {
+        "_id": "512",
+        "question": "QUOTATION QUESTION. Why did God send His Son into the world?",
+        "answer": "John 3:16–17 'For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. God sent his Son into the world not to judge the world, but to save the world through him.'",
+        "points": 30
+    },
+    {
+        "_id": "513",
+        "question": "What four things does God ask us to do in order to receive His salvation?",
+        "answer": "Ask God to save us, Believe Jesus [Christ] was raised from the dead, Confess and repent of our sins, Declare Jesus [Christ] as Savior and Lord (1 John 1:9; Acts 2:21; 20:21; Romans 10:9,10,13; Acts 2:21)",
+        "points": 30
+    },
+    {
+        "_id": "514",
+        "question": "Jesus' parables in Luke chapter 15 deal with what three lost things?",
+        "answer": "A lost sheep, A lost coin, A lost son (Luke 15:4,8,24)",
+        "points": 30
+    },
+    {
+        "_id": "515",
+        "question": "When the prodigal son told his father he was only worthy to be a servant, what did the father do?",
+        "answer": "Put the finest robe on him, Put a ring on his finger, Put sandals on his feet, Gave him a feast(Luke 14:22-24)",
+        "points": 30
+    },
+    {
+        "_id": "516",
+        "question": "In the Parable of the Sower, to what four kinds of people did Jesus compare the soils?",
+        "answer": "Those who allow Satan to steal the Word, Those who deny Christ [Jesus] when persecuted, Those who allow worldly things to dominate their lives, Those who receive the gospel and share it with others (Mark 4:15-20)",
+        "points": 30
+    },
+    {
+        "_id": "517",
+        "question": "QUOTATION QUESTION. Quote the invitation of Jesus contained in Revelation chapter three?",
+        "answer": "Revelation 3:20  'Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends.'",
+        "points": 30
+    },
+    {
+        "_id": "518",
+        "question": "QUOTATION QUESTION. According to Romans chapter ten, what should we do to be saved?",
+        "answer": "Romans 10:9  If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.",
+        "points": 30
+    },
+    {
+        "_id": "519",
+        "question": "What are some evidences that a person is truly a Christian?",
+        "answer": "Love for other Christians, Affirmation of the [Holy] Spirit, Bearing spiritual fruit (1 John 3:14; Romans 8:16; Galatians 5:22,23)",
+        "points": 30
+    },
+    {
+        "_id": "520",
+        "question": "Is it possible to stop being a Christian?",
+        "answer": "Yes, we must continue in faith and God's grace to remain God's children. (Matthew 13:21; Luke 8:13; Colossians 1:23; 2 Peter 2:20; 1 John 1:6,7)",
+        "points": 30
+    },
+    {
+        "_id": "521",
+        "question": "QUOTATION QUESTION. What definition of faith is found in Hebrews 11:1?",
+        "answer": "Hebrews 11:1 Faith shows the reality of what we hope for; it is the evidence of things we cannot see.",
+        "points": 30
+    },
+    {
+        "_id": "522",
+        "question": "QUOTATION QUESTION. According to Philippians chapter one, what assurance do we have that God is able to keep us?",
+        "answer": "Philippians 1:6 And I am certain that God, who began the good work within you, will continue his work until it is finally finished on the day when Christ Jesus returns. ",
+        "points": 30
+    },
+    {
+        "_id": "523",
+        "question": "QUOTATION QUESTION. How should a Christian do all things?",
+        "answer": "Colossians 3:17 And whatever you do or say, do it as a representative of the Lord Jesus, giving thanks through him to God the Father.",
+        "points": 30
+    },
+    {
+        "_id": "524",
+        "question": "QUOTATION QUESTION. How should a Christian treat those who mistreat him?",
+        "answer": "Matthew 5:44 'Love your enemies! Pray for those who persecute you!' ",
+        "points": 30
+    },
+    {
+        "_id": "525",
+        "question": "QUOTATION QUESTION. According to Ephesians chapter four, how should we treat others?",
+        "answer": "Ephesians 4:32  Be kind to each other, tenderhearted, forgiving one another, just as God through Christ has forgiven you.",
+        "points": 30
+    },
+    {
+        "_id": "526",
+        "question": "What are four things we should do in order to be more like Jesus?",
+        "answer": "Learn the Word.  Pray each day.  Attend church services.  Follow the [Holy] Spirit's leading. (Psalm 5:3; 119:11; Hebrews 10:25; Romans 8:4)",
+        "points": 30
+    },
+    {
+        "_id": "527",
+        "question": "What is Paul's threefold advice concerning anger?",
+        "answer": "Don't use anger as an excuse to sin.  Don't hold grudges.  Don't listen to the devil. (Ephesians 4:26,27)",
+        "points": 30
+    },
+    {
+        "_id": "528",
+        "question": "Give nine of the characteristics of true Christian love?",
+        "answer": "Patient • Kind • Not jealous • Not boastful or proud • Not rude or irritable • Not demanding of its own way • Keeps no record of wrongs • Does not rejoice about injustice • Rejoices when truth wins • Never gives up or loses faith • Hopeful • Enduring [Lasts forever](Accept any nine answers)(1 Corinthians 13:4-8)",
+        "points": 30
+    },
+    {
+        "_id": "529",
+        "question": "QUOTATION QUESTION. Do all things that happen to a Christian have a purpose?",
+        "answer": "Romans 8:28 And we know that God causes everything to work together for the good of those who love God and are called according to his purpose for them.",
+        "points": 30
+    },
+    {
+        "_id": "530",
+        "question": "QUOTATION QUESTION. What should be our greatest goal in life?",
+        "answer": "Matthew 6:33 'Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need.'",
+        "points": 30
+    },
+    {
+        "_id": "531",
+        "question": "What does the Bible say to do when others pressure us to disobey God?",
+        "answer": "Do not follow others to do what is wrong.  Obey God rather than human authority. (Exodus 23:2; Proverbs 1:10; Acts 5:29)",
+        "points": 30
+    },
+    {
+        "_id": "532",
+        "question": "QUOTATION QUESTION. Quote the Lord's Prayer?",
+        "answer": "Matthew 6:9–13 'Our Father in heaven, may your name be kept holy. May your Kingdom come soon. May your will be done on earth, as it is in heaven. Give us today the food we need, and forgive us our sins, as we have forgiven those who sin against us. And don’t let us yield to temptation, but rescue us from the evil one.'",
+        "points": 30
+    },
+    {
+        "_id": "533",
+        "question": "QUOTATION QUESTION. From the first Psalm, quote the definition of the blessed person?",
+        "answer": "Psalm 1:1 Oh, the joys of those who do not follow the advice of the wicked, or stand around with sinners, or join in with mockers.",
+        "points": 30
+    },
+    {
+        "_id": "534",
+        "question": "QUOTATION QUESTION. Quote the verse in Psalms which tells us why believers do not need to fear?",
+        "answer": "Psalm 23:4 Even when I walk through the darkest valley, I will not be afraid, for you are close beside me. Your rod and your staff protect and comfort me",
+        "points": 30
+    },
+    {
+        "_id": "535",
+        "question": "QUOTATION QUESTION. Why can we not trust our own judgment in choosing the right way to live?",
+        "answer": "Proverbs 14:12 There is a path before each person that seems right, but it ends in death.",
+        "points": 30
+    },
+    {
+        "_id": "536",
+        "question": "QUOTATION QUESTION. What is the Christian's first responsibility in witnessing to the lost?",
+        "answer": "Matthew 5:16 'Let your good deeds shine out for all to see, so that everyone will praise your heavenly Father.'",
+        "points": 30
+    },
+    {
+        "_id": "537",
+        "question": "QUOTATION QUESTION.  What are the two verses in Matthew chapter six which tell us where we should store up treasures and why?",
+        "answer": "Matthew 6:20-21 “Store your treasures in heaven, where moths and rust cannot destroy, and thieves do not break in and steal.  Wherever your treasure is, there the desires of your heart will also be.”",
+        "points": 30
+    },
+    {
+        "_id": "538",
+        "question": "QUOTATION QUESTION. According to Romans twelve verse one, what does God desire from each Christian?",
+        "answer": "Romans 12:1  And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice—the kind he will find acceptable. This is truly the way to worship him.",
+        "points": 30
+    },
+    {
+        "_id": "539",
+        "question": "QUOTATION QUESTION. Quote the verse of Philippians that tells us what to do instead of worrying?",
+        "answer": "Philippians 4:6  Don’t worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done.",
+        "points": 30
+    },
+    {
+        "_id": "540",
+        "question": "QUOTATION QUESTION. Quote the verse of Philippians that tells us what we should think about?",
+        "answer": "Philippians 4:8  And now, dear brothers and sisters, one final thing. Fix your thoughts on what is true, and honorable, and right, and pure, and lovely, and admirable. Think about things that are excellent and worthy of praise",
+        "points": 30
+    },
+    {
+        "_id": "541",
+        "question": "Why should we not drink alcoholic beverages?",
+        "answer": "Wine produces mockers; alcohol leads to brawls. Those led astray by drink cannot be wise (Proverbs 20:1; 23:29-33)",
+        "points": 30
+    },
+    {
+        "_id": "542",
+        "question": "QUOTATION QUESTION. What should be our prayer about our speech and thoughts?",
+        "answer": "Psalm 19:14 May the words of my mouth and the meditation of my heart be pleasing to you, O Lord, my rock and my redeemer.",
+        "points": 30
+    },
+    {
+        "_id": "543",
+        "question": "How can Christians live victoriously over sin?",
+        "answer": "By yielding to God, claiming identification with the death and resurrection of Jesus, and allowing the [Holy] Spirit to lead us (Romans 6:11,13; 8:13,14)",
+        "points": 30
+    },
+    {
+        "_id": "544",
+        "question": "QUOTATION QUESTION. How do we know we can resist temptation?",
+        "answer": "1 Corinthians 10:13  The temptations in your life are no different from what others experience. And God is faithful. He will not allow the temptation to be more than you can stand. When you are tempted, he will show you a way out so that you can endure",
+        "points": 30
+    },
+    {
+        "_id": "545",
+        "question": "QUOTATION QUESTION. What does an Old Testament proverb say about hiding our sins?",
+        "answer": "Proverbs 28:13 People who conceal their sins will not prosper, but if they confess and turn from them, they will receive mercy.",
+        "points": 30
+    },
+    {
+        "_id": "546",
+        "question": "QUOTATION QUESTION. According to the First Epistle of John, what should Christians do if they sin?",
+        "answer": "1 John 1:9 But if we confess our sins to him, he is faithful and just to forgive us our sins and to cleanse us from all wickedness",
+        "points": 30
+    },
+    {
+        "_id": "547",
+        "question": "QUOTATION QUESTION. What verse in Psalms gives us guidance about TV and computer programs, movies, and other media?",
+        "answer": "Psalm 101:3 I will refuse to look at anything vile and vulgar. I hate all who deal crookedly; I will have nothing to do with them.",
+        "points": 30
+    },
+    {
+        "_id": "548",
+        "question": "What three supernatural things happened on the Day of Pentecost?",
+        "answer": "A sound like the roaring of a mighty windstorm was heard.Divided tongues of fire appeared.Disciples spoke in languages they had never learned.(Acts 2:2-4)",
+        "points": 30
+    },
+    {
+        "_id": "549",
+        "question": "What was Jesus' last command to His apostles before His ascension?",
+        "answer": "Jesus told them not to leave Jerusalem until they had received the gift of the Holy Spirit [baptism in the Holy Spirit]. (Acts 1:4–5)",
+        "points": 30
+    },
+    {
+        "_id": "550",
+        "question": "QUOTATION QUESTION. To whom is the promise of the baptism in the Holy Spirit given?",
+        "answer": "Acts 2:39  'This promise is to you, to your children, and to those far away—all who have been called by the Lord our God.'",
+        "points": 30
+    },
+    {
+        "_id": "551",
+        "question": "QUOTATION QUESTION. Quote the words of Jesus which tell the purpose of the baptism in the Holy Spirit [Ghost]?",
+        "answer": "Acts 1:8 'But you will receive power when the Holy Spirit comes upon you. And you will be my witnesses, telling people about me everywhere—in Jerusalem, throughout Judea, in Samaria, and to the ends of the earth.”",
+        "points": 30
+    },
+    {
+        "_id": "552",
+        "question": "QUOTATION QUESTION. As listed in Galatians, what is the fruit of the Spirit?",
+        "answer": "Galatians 5:22–23  But the Holy Spirit produces this kind of fruit in our lives: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. There is no law against these things!",
+        "points": 30
+    },
+    {
+        "_id": "553",
+        "question": "Romans chapter twelve lists what seven gifts of the Spirit?",
+        "answer": "Prophesying, serving, teaching, encouraging, giving, leadership, showing kindness(Romans 12:6-8)",
+        "points": 30
+    },
+    {
+        "_id": "554",
+        "question": "First Corinthians chapter twelve lists what nine gifts of the Spirit?",
+        "answer": "Giving wise advice • Message of special knowledge • Great faith • Gift of healing • Power to perform miracles • Prophecy • Discerning between spirits • Speaking in unknown languages [tongues] • Interpretation of unknown languages [tongues] (1 Corinthians 12:8-10)",
+        "points": 30
+    },
+    {
+        "_id": "555",
+        "question": "Who should become members of a local church?",
+        "answer": "Those who:, have accepted Christ as Savior;  have been baptized in water;  agree with the church's teachings;  pledge to support the church with tithe, talents, and attendance;  and are willing to abide by the church's discipline ",
+        "points": 30
+    },
+    {
+        "_id": "556",
+        "question": "QUOTATION QUESTION. According to Romans chapter twelve, how is the Church compared to a body?",
+        "answer": "Romans 12:4–5  Just as our bodies have many parts and each part has a special function, so it is with Christ’s body. We are many parts of one body, and we all belong to each other.",
+        "points": 30
+    },
+    {
+        "_id": "557",
+        "question": "Following the Day of Pentecost, in what four things did the believers continue steadfastly?",
+        "answer": "Apostles' teaching • Fellowship • Sharing meals, including Communion [the Lord's Supper] • Prayer (Acts 2:42)",
+        "points": 30
+    },
+    {
+        "_id": "558",
+        "question": "How does a church grow?",
+        "answer": "When individual members of the church contribute their God-given gifts, then the church will be healthy and grow in love. (Ephesians 4:16)",
+        "points": 30
+    },
+    {
+        "_id": "559",
+        "question": " What does it mean to be a good steward?",
+        "answer": "Being a good steward is recognizing that all we have and all we are has been given to us by God and is to be used wisely in furthering the work of God (1 Corinthians 4:2)",
+        "points": 30
+    },
+    {
+        "_id": "560",
+        "question": "QUOTATION QUESTION. From Matthew, quote the Great Commission?",
+        "answer": "Matthew 28:19 'Therefore, go and make disciples of all the nations, baptizing them in the name of the Father, and the Son, and the Holy Spirit.'",
+        "points": 30
+    },
+    {
+        "_id": "561",
+        "question": "Ephesians chapter four mentions what five ministry gifts?",
+        "answer": "Apostles, Prophets, Evangelists, Pastors, Teachers (Ephesians 4:11)",
+        "points": 30
+    },
+    {
+        "_id": "562",
+        "question": "First Corinthians chapter fourteen contains what two great rules for worship in the church?",
+        "answer": "Everything should be done for the spiritual strengthening of the congregation. Everything should be done in a proper and orderly way. (1 Corinthians 14:26,40)",
+        "points": 30
+    },
+    {
+        "_id": "563",
+        "question": "QUOTATION QUESTION. Quote the verse of Second Corinthians which tells us how to give?",
+        "answer": "2 Corinthians 9:7 You must each decide in your heart how much to give. And don’t give reluctantly or in response to pressure.  'For God loves a person who gives cheerfully.'",
+        "points": 30
+    },
+    {
+        "_id": "564",
+        "question": "What four things should we do when we participate in the communion service?",
+        "answer": "Remember Jesus' death, Look forward to His return, Examine our relationship with God, Enjoy fellowship with Jesus and our fellow Christians (1 Corinthians 11:22-33)",
+        "points": 30
+    },
+    {
+        "_id": "565",
+        "question": "QUOTATION QUESTION. What prophecy did Isaiah make concerning Jesus' atoning death?",
+        "answer": "Isaiah 53:5 But he was pierced for our rebellion, crushed for our sins. He was beaten so we could be whole. He was whipped so we could be healed.",
+        "points": 30
+    },
+    {
+        "_id": "566",
+        "question": "QUOTATION QUESTION. What great promise did Jesus make to His disciples concerning His return?",
+        "answer": "John 14:3 'When everything is ready, I will come and get you, so that you will always be with me where I am.'",
+        "points": 30
+    },
+    {
+        "_id": "567",
+        "question": "QUOTATION QUESTION. At Jesus' ascension, what prophecy was made concerning His return?",
+        "answer": "Acts 1:11 'Jesus has been taken from you into heaven, but someday he will return from heaven in the same way you saw him go!”",
+        "points": 30
+    },
+    {
+        "_id": "568",
+        "question": " What are nine different signs of Jesus' soon return?",
+        "answer": "• Return of Jews to Israel • Increase in knowledge • Wars and threats of wars • Famines • Earthquakes • Persecution of believers • Many will turn away from Jesus • False prophets and messiahs • Sin will be rampant • All nations will hear the Good News • Great anguish (Accept  any nine answers)(Daniel 12:4; Matthew 24:6-32)",
+        "points": 30
+    },
+    {
+        "_id": "569",
+        "question": "QUOTATION QUESTION. Quote the two verses of First Thessalonians in which Paul describes the rapture of the Church?",
+        "answer": "1 Thessalonians 4:16-17 For the Lord himself will come down from heaven with a commanding shout, with the voice of the archangel, and with the trumpet call of God. First, the believers who have died will rise from their graves. Then, together with them, we who are still alive and remain on the earth will be caught up in the clouds to meet the Lord in the air. Then we will be with the Lord forever",
+        "points": 30
+    },
+    {
+        "_id": "570",
+        "question": "QUOTATION QUESTION. Quote the verse of First Corinthians chapter fifteen in which Paul describes what will happen when Jesus returns?",
+        "answer": "1 Corinthians 15:52 It will happen in a moment, in the blink of an eye, when the last trumpet is blown. For when the trumpet sounds, those who have died will be raised to live forever. And we who are living will also be transformed.",
+        "points": 30
+    },
+    {
+        "_id": "571",
+        "question": "Will all people be judged?",
+        "answer": "Yes, Christians will be judged by Christ [God] to determine who deserves rewards, while those who refused Christ as Savior will be judged unworthy of eternal life. (John 5:26-29; Romans 14:10-12; 1 Corinthians 3:13-15; 2 Corinthians 5:10)",
+        "points": 30
+    },
+    {
+        "_id": "572",
+        "question": "Who were the twelve sons of Jacob?",
+        "answer": "Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Joseph, Benjamin, Dan, Naphtali, Gad, Asher (Genesis 35:23-26)",
+        "points": 30
+    },
+    {
+        "_id": "573",
+        "question": "Which of the Ten Commandments deal with our relationship with God?",
+        "answer": "You must not have any other god but me.You must not make for yourself an idol of any kind. You must not misuse the name of the Lord your God. Remember to observe the Sabbath day by keeping it holy. (Exodus 20:1-11)",
+        "points": 30
+    },
+    {
+        "_id": "574",
+        "question": ") Which of the Ten Commandments deal with our relationship with others?",
+        "answer": "Honor your father and mother. You must not murder.You must not commit adultery.You must not steal. You must not testify falsely against your neighbor. You must not covet anything that belongs to your neighbor. (Exodus 20:12-17)",
+        "points": 30
+    },
+    {
+        "_id": "575",
+        "question": "Who were the twelve apostles of Jesus?",
+        "answer": "Simon Peter, Andrew, James son of Zebedee, John, Philip, Bartholomew, Thomas, Matthew, James son of Alpheus, Thaddeus, Simon the Zealot, Judas Iscariot (Matthew 10:2-4)",
+        "points": 30
+    },
+    {
+        "_id": "576",
+        "question": "From Proverbs chapter six, list five things which God hates?",
+        "answer": "Proud look, Lying tongue, Hands that kill the innocent, Heart that plots evil, Feet that rush to do wrong, False witness, One who causes trouble(Accept any five answers.)(Proverbs 6:16-19)",
+        "points": 30
+    }
+]
