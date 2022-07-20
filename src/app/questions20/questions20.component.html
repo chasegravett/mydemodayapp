@@ -1,1 +1,76 @@
-<p>questions20 works!</p>
+<div class="container mt-5">
+    <div class="card">
+        <div class="d-flex justify-content-between p-3">
+            <div class="image">
+                <img src="/assets/JBQ.jpg" alt="jbq_logo" width="150" class="d-inline-block align-text-center">
+            </div>
+            <div class="quiz-header">
+                <h4
+                    style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                    JBQ Study Helper</h4>
+                <span>Woohoo!</span>
+            </div>
+        </div>
+        <ng-container *ngIf="!quizCompleted">
+            <div class="d-flex justify-content-around py-3">
+                <div class="score">
+                    <h5>{{points}} points </h5>
+                </div>
+                <div class="questions-remaining">
+                    <span style="font-style: italic;">Question {{questionCount}} of 20</span>
+                </div>
+                <div class="timer">
+                    {{timeLeft}}s ⏰
+                </div>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%"
+                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+            <div class="progress mb-3">
+                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+                    aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" [ngStyle]="{'width':progress+'%'}"></div>
+            </div>
+            <div class="question">
+                <div class="card">
+                    <h3>{{questionList[currentIndex]?.question}}</h3>
+                </div>
+            </div>
+            <div class="answers">
+                <ol *ngFor="let answer of answerList">
+                    <li (click)="checkAnswer(currentIndex,answer)">
+                        <div appChangeBg [isCorrect]="answer===questionList[currentIndex].answer" class="card">
+                            {{answer}}
+                        </div>
+                    </li>
+                </ol>
+            </div>
+            <div class="d-flex justify-content-between">
+                <button [disabled]="questionCount===1" class="btn" (click)="previousQuestion()"><i
+                        class=" fa fa-arrow-circle-o-left fa-3x" aria-hidden="true"></i></button>
+                <!-- <button class="btn"><i class="fa fa-flag-o fa-3x" aria-hidden="true"></i></button> -->
+                <button [disabled]="questionCount===20" class="btn" (click)="nextQuestion()"><i
+                        class="fa fa-arrow-circle-o-right fa-3x" aria-hidden="true"></i></button>
+            </div>
+        </ng-container>
+        <ng-container *ngIf="quizCompleted">
+            <div class="row d-flex justify-content-between">
+                <img style="width: 40%" class="img-fluid col-sm-12 mx-auto" src="/assets/happyJesus.gif"
+                    alt="Jesus Proud of You">
+                <div class="result text-center col-md-6 col-sm-12">
+                    <h3>Good Job! <br>Let's see how you did!</h3>
+                    <p>You answered 20 questions!</p>
+                    <ng-container *ngIf="finalIncorrect===0">
+                        <p>You missed {{finalIncorrect}}!! Perfect Score!!</p>
+                    </ng-container>
+                    <ng-container *ngIf="finalIncorrect!==0">
+                        <p>You missed {{finalIncorrect}} on the first try, but you got them right
+                            eventually!</p>
+                    </ng-container>
+                    <p>Final Score: {{finalScore}} points!!</p>
+                    <button class="btn btn-lg btn-primary " routerLink="/choose">Ready to Study Some More?</button>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+</div>

@@ -1,4 +1,6 @@
 * {
-    font-size: 70px;
+    font-size: 55px;
     padding: 5px;
+    border-width: 50px;
+    border-color: black;
 }

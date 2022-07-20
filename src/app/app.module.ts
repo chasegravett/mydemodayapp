@@ -10,6 +10,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { ChooseComponent } from './choose/choose.component';
 import { Questions20Component } from './questions20/questions20.component';
 import { Questions30Component } from './questions30/questions30.component';
+import { ChangeBgDirective } from './change-bg.directive';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { Questions30Component } from './questions30/questions30.component';
     HeaderComponent,
     ChooseComponent,
     Questions20Component,
-    Questions30Component
+    Questions30Component,
+    ChangeBgDirective
   ],
   imports: [
     BrowserModule,

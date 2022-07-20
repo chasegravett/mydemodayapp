@@ -18,6 +18,10 @@ export class QuestionsComponent implements OnInit {
   public currentIndex: number = Math.floor(Math.random() * 268);
   interval$: any;
   public progress: string = "0";
+  public incorrectAnswers: number = 0;
+  public quizCompleted: boolean = false;
+  finalScore: number = 0;
+  finalIncorrect: number = 0;
 
 
 
@@ -56,6 +60,10 @@ export class QuestionsComponent implements OnInit {
       this.questionCount++;
       this.timeLeft = 30;
       this.progress = String(Number(this.progress) + 5);
+    } else {
+      this.finalIncorrect = this.incorrectAnswers;
+      this.finalScore = this.points;
+      this.quizCompleted = true;
     }
   }
 
@@ -70,9 +78,12 @@ export class QuestionsComponent implements OnInit {
   checkAnswer(ind: number, ans: any) {
     if (ans == this.questionList[ind].answer) {
       this.points += 10;
-      this.nextQuestion();
+      setTimeout(() => {
+        this.nextQuestion();
+      }, 750);
     } else {
       this.points -= 5;
+      this.incorrectAnswers++;
     }
   }
 
@@ -99,4 +110,6 @@ export class QuestionsComponent implements OnInit {
     this.timeLeft = 30;
     this.startCounter();
   }
+
+
 }
