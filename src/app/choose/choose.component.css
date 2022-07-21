@@ -45,4 +45,85 @@ button:hover {
     width: 50px;
     height: auto;
     display: inline-block;
-  }
+}
+
+/* @media (max-width: 1200px) {
+    h1 {
+        text-align: center;
+        font-size: 60px;
+        padding: 18px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        margin-top: 75px;
+        margin-left: 50px;
+    }
+    
+    button {
+        justify-content: space-between;
+        margin-top: 40px;
+        margin-left: 65px;
+        margin-right: 65px;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .space {
+        width: 40px;
+        height: auto;
+        display: inline-block;
+    }
+}
+
+@media (max-width: 992px) {
+    h1 {
+        text-align: center;
+        font-size: 30px;
+        padding: 8px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    button {
+        justify-content: space-between;
+        margin-top: 60px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .space {
+        width: 25px;
+        height: auto;
+        display: inline-block;
+    } 
+}
+
+@media (max-width: 480px) {
+    h1 {
+        text-align: center;
+        font-size: 30px;
+        padding: 8px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    button {
+        justify-content: space-between;
+        margin-top: 60px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .space {
+        width: 25px;
+        height: auto;
+        display: inline-block;
+    } 
+} */

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">unofficial-bible-quiz</string>
+    <string name="title_activity_main">unofficial-bible-quiz</string>
+    <string name="package_name">com.chasegravett.unofficialbiblequiz</string>
+    <string name="custom_url_scheme">com.chasegravett.unofficialbiblequiz</string>
+</resources>

@@ -15,7 +15,7 @@ export class Questions20Component implements OnInit {
   public answerList: any = [];
   public currentQuestion: number = 0;
   public points: number = 0;
-  public timeLeft: number = 30;
+  public timeLeft: number = 45;
   public currentIndex: number = (Math.floor(Math.random() * 172)) + 289;
   interval$: any;
   public progress: string = "0";
@@ -59,7 +59,7 @@ export class Questions20Component implements OnInit {
       this.currentIndex++;
       this.getAnswers();
       this.questionCount++;
-      this.timeLeft = 30;
+      this.timeLeft = 45;
       this.progress = String(Number(this.progress) + 5);
     } else {
       this.finalIncorrect = this.incorrectAnswers;
@@ -72,7 +72,7 @@ export class Questions20Component implements OnInit {
     this.currentIndex--;
     this.getAnswers();
     this.questionCount--;
-    this.timeLeft = 30;
+    this.timeLeft = 45;
     this.progress = String(Number(this.progress) - 5);
   }
 
@@ -108,7 +108,7 @@ export class Questions20Component implements OnInit {
 
   resetCounter() {
     this.stopCounter();
-    this.timeLeft = 30;
+    this.timeLeft = 45;
     this.startCounter();
   }
 }

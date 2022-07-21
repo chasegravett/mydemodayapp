@@ -41,3 +41,102 @@ ul {
     list-style: none;
 }
 
+/* @media (max-width: 992px) {
+    
+    button {
+        font-size: x-large;
+        text-align: center;
+    }
+    
+    button:hover{
+        font-size: 32px;
+    }
+    
+    h1 {
+        font-size: 35px;
+    }
+    
+    p {
+        padding: 4px;
+        font-size: 20px;
+        text-indent: 50px;
+    }
+    
+    h3 {
+        padding-top: 2%;
+        font-size: 30px;
+    }
+    
+    ul {
+        font-size: 20px;
+        padding: .5%;
+        text-indent: 20px;
+        list-style: none;
+    }
+}
+
+@media (max-width: 768px) {
+    button {
+        font-size: large;
+        text-align: center;
+    }
+    
+    button:hover{
+        font-size: 20px;
+    }
+    
+    h1 {
+        font-size: 28px;
+    }
+    
+    p {
+        padding: 2px;
+        font-size: 15px;
+        text-indent: 50px;
+    }
+    
+    h3 {
+        padding-top: 2%;
+        font-size: 25px;
+    }
+    
+    ul {
+        font-size: 15px;
+        padding: .5%;
+        text-indent: 20px;
+        list-style: none;
+    }
+}
+
+@media (max-width: 480px) {
+    button {
+        font-size: medium;
+        text-align: center;
+    }
+    
+    button:hover{
+        font-size: 20px;
+    }
+    
+    h1 {
+        font-size: 15px;
+    }
+    
+    p {
+        padding: 4px;
+        font-size: 20px;
+        text-indent: 50px;
+    }
+    
+    h3 {
+        padding-top: 2%;
+        font-size: 30px;
+    }
+    
+    ul {
+        font-size: 20px;
+        padding: .5%;
+        text-indent: 20px;
+        list-style: none;
+    }
+} */
